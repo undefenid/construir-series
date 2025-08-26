@@ -1,0 +1,418 @@
+Nombre: Series populares
+
+Nombre: Alienígenas ancestrales
+
+genero: Documental, Misterio, Sci-Fi & Fantasy
+
+descripción: Los investigadores recorren el mundo en busca de evidencias para determinar si la vida en la Tierra comenzó en el espacio y si los alienígenas influenciaron a la raza humana en tiempos antiguos.
+
+anio: 2010
+
+iconPng: https://image.tmdb.org/t/p/original/b3da8cBeQpR1rD8ES2bGUKB90cz.png
+
+icono: https://image.tmdb.org/t/p/original/wSV3iuaG6Ot6aUqQCqOHFyDQRMB.jpg
+
+logohorizontal: https://image.tmdb.org/t/p/original/cKZfHDeaKot2Et14iD0fexlEN3J.jpg
+
+temporadas
+nombre: temporada 1
+
+tmbdid: 32608
+
+
+00 Piloto
+https://drive.usercontent.google.com/download?id=1VRZcHcb1-sdOT7J2U1kuJMF6_oMyUzZJ&export=download&authuser=0&confirm=t.mkv
+01 Evidencia
+https://drive.usercontent.google.com/download?id=1ShKU63iAHQcfj-vcOz3lE3MEpc7GWuRu&export=download&authuser=0&confirm=t.mkv
+02 Visitantes
+https://drive.usercontent.google.com/download?id=11boCMi3mdiOCgQJwCiiojYVA_zKolSVZ&export=download&authuser=0&confirm=t.mkv
+03 La Mision
+https://drive.usercontent.google.com/download?id=1it2sP-6RJ_oZybQx-q_qGngBcusRRt1H&export=download&authuser=0&confirm=t.mkv
+04 Encuentros Mas Cercanos
+https://drive.usercontent.google.com/download?id=1FxCytg0hG1HkId4Wv3LsQbKAGmXBuyoe&export=download&authuser=0&confirm=t.mkv
+05 El Regreso
+https://drive.usercontent.google.com/download?id=1nEgK5kkvipuxhX3PkctPMqZ4RwZ__6WF&export=download&authuser=0&confirm=t.mkv
+
+nombre: Temporada 2
+01 Lugares Misteriosos
+https://drive.usercontent.google.com/download?id=13MRsIs3aLrEQesoO1iD9mY3Oq8UO-Uly&export=download&authuser=0&confirm=t.mkv
+02 Dioses & Alienigenas
+https://drive.usercontent.google.com/download?id=18ndsjjUSgZMIYXJ7ABjYcrm9KhZMa2gQ&export=download&authuser=0&confirm=t.mkv
+03 Universos Submarinos
+https://drive.usercontent.google.com/download?id=1EyT2V9s5Wt9E4CYhzuQcvpUqN49NAUac&export=download&authuser=0&confirm=t.mkv
+04 Bajo Tierra
+https://drive.usercontent.google.com/download?id=1UGqs7I6A0sE7E5A36Iu8BAOopJoVTO3f&export=download&authuser=0&confirm=t.mkv
+05 Los Alienígenas y El Tercer Reich
+https://drive.usercontent.google.com/download?id=1oOpgJrzZyRe3yGh4qs5Mq9JbA4dwZlTb&export=download&authuser=0&confirm=t.mkv
+06 Tecnologia Extraterrestre
+https://drive.usercontent.google.com/download?id=1sbdTJ_gAcvh6mdRiY3PuHeCc32kEGlx7&export=download&authuser=0&confirm=t.mkv
+07 Angeles y Aliens
+https://drive.usercontent.google.com/download?id=1FIWKzp63lKFoPK4i4uL5w10pkZ4yjzUL&export=download&authuser=0&confirm=t.mkv
+08 Estructuras Inexplicables
+https://drive.usercontent.google.com/download?id=1TDNZVaC4QWjMnsusqMr0M45DJyVOyhAs&export=download&authuser=0&confirm=t.mkv
+09 Destuccion Total
+https://drive.usercontent.google.com/download?id=1rCs794nXydIP8HsvOlKrYgQZhGuwkjXl&export=download&authuser=0&confirm=t.mkv
+10 Contactos Extraterrestres
+https://drive.usercontent.google.com/download?id=1cuX2iejSJwqISxGpJ6MYUPOEA5F_mVEB&export=download&authuser=0&confirm=t.mkv
+
+nombre: Temporada 3
+01 El Viejo Oeste
+https://drive.usercontent.google.com/download?id=15qEy4-Z1TlTsH5QR-Q7SfTneYLdDDtbb&export=download&authuser=0&confirm=t.mkv
+02 El Origen de los Monstruos
+https://drive.usercontent.google.com/download?id=1umtesrG8JWz94jhfBhGgRL7vFkL2c8mQ&export=download&authuser=0&confirm=t.mkv
+03 Lugares Sagrados
+https://drive.usercontent.google.com/download?id=1Xkq_fQsKQ_3q6uPu68R6KGgaAm7SZfJF&export=download&authuser=0&confirm=t.mkv
+04 Los Templos de Oro
+https://drive.usercontent.google.com/download?id=1cQW7LSTb6XwwBD-riIyg0Vmi_T-yR3wb&export=download&authuser=0&confirm=t.mkv
+05 Misteriosos Rituales
+https://drive.usercontent.google.com/download?id=1b-u6cjgZxieGPbEZLrOhfSn7F0QTqVQn&export=download&authuser=0&confirm=t.mkv
+06 Ingenieros Ancestrales
+https://drive.usercontent.google.com/download?id=1-5P7E8adxPxjHEqJJKCCBC4nEG9pAnml&export=download&authuser=0&confirm=t.mkv
+07 Plagas y Epidemias
+https://drive.usercontent.google.com/download?id=1k7xWz1bheBql8hEJZf7nmPIDlCB3iTyD&export=download&authuser=0&confirm=t.mkv
+08 Mundos Perdidos
+https://drive.usercontent.google.com/download?id=1_5BA3-b8xGTVvvqfVmtdlktY8PtT2_Zi&export=download&authuser=0&confirm=t.mkv
+09 Armas Letales
+https://drive.usercontent.google.com/download?id=1vyQBtRJO4g3d3pIDNAQQ4i44JywRPbF0&export=download&authuser=0&confirm=t.mkv
+10 Lugares Diabolicos
+https://drive.usercontent.google.com/download?id=10dapmu1ekCH3TQEcjghkzMUGaRnEvCK2&export=download&authuser=0&confirm=t.mkv
+11 Padres Fundadores
+https://drive.usercontent.google.com/download?id=1StxR3fLbXrXU4YDmSwJKwNd6OpJPXtf9&export=download&authuser=0&confirm=t.mkv
+12 Sectas Mortales
+https://drive.usercontent.google.com/download?id=1TCDiZDvMB7SofBe3HWQrlA26AsckR8oC&export=download&authuser=0&confirm=t.mkv
+13 El Codigo Secreto
+https://drive.usercontent.google.com/download?id=1Pa4aP1rka1coiG3i8xTUdmuPCEiHH0eR&export=download&authuser=0&confirm=t.mkv
+14 Muertos Vivientes
+https://drive.usercontent.google.com/download?id=1qiQhdt3iyDj2ftD0Jk1DwwqLQoyOVp9O&export=download&authuser=0&confirm=t.mkv
+15 Dioses y Heroes
+https://drive.usercontent.google.com/download?id=15NC3LMZr1B6Y6kLTWAMbKdZWU6D9dwb-&export=download&authuser=0&confirm=t.mkv
+16 La Creacion del Hombre
+https://drive.usercontent.google.com/download?id=1piI335xuiUVq4iwPDoyTTUHXt8F4OdT3&export=download&authuser=0&confirm=t.mkv
+
+nombre: Temporada 4
+01 La_Conspiracin_Maya
+https://drive.usercontent.google.com/download?id=1DPh4HKn6RVIsoN0E54xewEQU_RaLaJ3N&export=download&authuser=0&confirm=t.mkv
+02 Las_Profecias_del_Fin_del_Mundo
+https://drive.usercontent.google.com/download?id=1juHsBKbJyRUaqOYzT_VjcFntL8Dj60yz&export=download&authuser=0&confirm=t.mkv
+03 Los_Grises
+https://drive.usercontent.google.com/download?id=1Os98Id5HyywI9HNdiMOMDWpQrBBLs1Vz&export=download&authuser=0&confirm=t.mkv
+04 Megadesastres_Alienigenas
+https://drive.usercontent.google.com/download?id=1e5t-DrNd8XmCWlsTb_JrrWrpO0JGsUdk&export=download&authuser=0&confirm=t.mkv
+05 La_Conexion_Nasa
+https://drive.usercontent.google.com/download?id=1b3DZRzxNBVcaV9gSCSOfMyLvHo_1_3u1&export=download&authuser=0&confirm=t.mkv
+06 El_Misterio_de_Puma_Punku
+https://drive.usercontent.google.com/download?id=1MAQijhL6R4tQy0OiUHneMRL2xgKa-VUy&export=download&authuser=0&confirm=t.mkv
+07 El_Bigfoot
+https://drive.usercontent.google.com/download?id=1aeLgE3N6ySJf4geJ7zeK8rajJCDKceOe&export=download&authuser=0&confirm=t.mkv
+08 La_Conspiracion_de_Da_Vinci
+https://drive.usercontent.google.com/download?id=1KKbTKWJ5SN8dU335dG2nY9uWJdI7Qs-f&export=download&authuser=0&confirm=t.mkv
+09 Los_Viajeros_del_Tiempo
+https://drive.usercontent.google.com/download?id=1RDuj1UF51ghN2K13MYnnoq-JHQslUYH4&export=download&authuser=0&confirm=t.mkv
+10 Alienigenas_y_Dinosaurios
+https://drive.usercontent.google.com/download?id=1fkDuPkwNyTarVvNmLw9pZ_cHIyG-fIc0&export=download&authuser=0&confirm=t.mkv
+
+nombre: Temporada 5
+01 Secretos_De_Las_Pirmides
+https://drive.usercontent.google.com/download?id=1cIK1dp21mKIeaqZDjkwrUq5rFobvzM6R&export=download&authuser=0&confirm=t.mkv
+02 Alienigenas_Encubrimientos
+https://drive.usercontent.google.com/download?id=113lf1MldV71DlfMFSVIrRi_KPeYQsVi8&export=download&authuser=0&confirm=t.mkv
+03 Plantas_Electricas
+https://drive.usercontent.google.com/download?id=1nT2Vet4gfPBoIrr866HKrxU53UY_MCeE&export=download&authuser=0&confirm=t.mkv
+04 Destino_Orion
+https://drive.usercontent.google.com/download?id=10Jjoe1mDJX1Z-xPfElwHgm2VY2cNRWTF&export=download&authuser=0&confirm=t.mkv
+05 El_Factor_Einstein
+https://drive.usercontent.google.com/download?id=1zi2w2FjR35MYTuoP3jRUdoXX9rQFfheS&export=download&authuser=0&confirm=t.mkv
+06 Secretos_de_Tumbas
+https://drive.usercontent.google.com/download?id=1VpIA9emGqchv4s-op9EJaoqlSx_-ja8D&export=download&authuser=0&confirm=t.mkv
+07 Profetas
+https://drive.usercontent.google.com/download?id=1BQefrdHf9K8tqnLAl5gOQzDph75sQQsd&export=download&authuser=0&confirm=t.mkv
+08 Mas_Haya_de_Nazca
+https://drive.usercontent.google.com/download?id=1YQgZ1J237MAqyfw7I-VIbeGEX3KB2twI&export=download&authuser=0&confirm=t.mkv
+09 Abducciones_Misteriosas
+https://drive.usercontent.google.com/download?id=1o9jUwkobS_xXrrpLDHLK5B3_4g-K_aVM&export=download&authuser=0&confirm=t.mkv
+10 El_Legado_de_Von_Dniken
+https://drive.usercontent.google.com/download?id=1prcYqWaF-wTvJlLnqUXrb6sCvOrlpeLi&export=download&authuser=0&confirm=t.mkv
+11 Los_Dioses_Vinkingos
+https://drive.usercontent.google.com/download?id=1WE4bVrnuWEUvpdnmGnqSoV6ab3pHK3SM&export=download&authuser=0&confirm=t.mkv
+12 Los_Monolitos
+https://drive.usercontent.google.com/download?id=1MlFJynVzPhUh4eIcpSBtNvgn6zuRWJ_N&export=download&authuser=0&confirm=t.mkv
+
+nombre: Temporada 6
+01 El_Poder_de_Tres
+https://drive.usercontent.google.com/download?id=1V6UYjIpVaWqNFl3LqLEawY6PoC5u0xXm&export=download&authuser=0&confirm=t.mkv
+02 Las_Calaveras_de_Cristal
+https://drive.usercontent.google.com/download?id=1_SoGSUGjcUz5gugCFxrRb0iOOEZrHUdP&export=download&authuser=0&confirm=t.mkv
+03_-La_Conexion_Anunnaki
+https://drive.usercontent.google.com/download?id=1Ql2yU_ROio6tIs99U_FagiojhUDkCLsZ&export=download&authuser=0&confirm=t.mkv
+04 La_Magia_de_los_Dioses
+https://drive.usercontent.google.com/download?id=18NLQDGRnm-Zo7jFNqlwTeqeOTkf8PS2o&export=download&authuser=0&confirm=t.mkv
+05 La_Conspiracion_de_Satan
+https://drive.usercontent.google.com/download?id=10kCpEjPpHLPT4maR9wYRpOi97Mpc1Er4&export=download&authuser=0&confirm=t.mkv
+06 Cirugias_Alienigenas
+https://drive.usercontent.google.com/download?id=1rXHNbyZjiTOIxWZQxxXAQTFDeU_l-V4Q&export=download&authuser=0&confirm=t.mkv
+07 Emperadores,_Reyes_y_Faraones
+https://drive.usercontent.google.com/download?id=1C2QuKl1PCxWg95pTd90qog2_U5dRx1g4&export=download&authuser=0&confirm=t.mkv
+08 Reliquias_Misteriosas
+https://drive.usercontent.google.com/download?id=1ZoE3R_7RCkOnYKiHyQS9q8eO4GgHikWC&export=download&authuser=0&confirm=t.mkv
+09 Islas_Prohibidas
+https://drive.usercontent.google.com/download?id=1Mh-PMm_16LGxKlfUpv-NnrdDJnAk_qHo&export=download&authuser=0&confirm=t.mkv
+10 El_Arca_Perdida
+https://drive.usercontent.google.com/download?id=1d-o7V0RduV3s-hvS0vf1gAZVOYjuqRZM&export=download&authuser=0&confirm=t.mkv
+11 Montanas_Misteriosas
+https://drive.usercontent.google.com/download?id=1jxpObkMbsSa9di9vxOCJQMz9z7b5UXiN&export=download&authuser=0&confirm=t.mkv
+
+nombre: Temporada 7
+01 Las_Puertas_a_Las_Estrellas
+https://drive.usercontent.google.com/download?id=1hKJM-Bruq4Yi8ZlBfT9KfjChOshXQWae&export=download&authuser=0&confirm=t.mkv
+02 Alienigenas_en_America
+https://drive.usercontent.google.com/download?id=1mEldGm7w_S-RVgv-XCknGuBdisf2cBUG&export=download&authuser=0&confirm=t.mkv
+03 Los_Ninos_de_las_Estrellas
+https://drive.usercontent.google.com/download?id=17aEEX7KbAllu1lKru1i-5mmhI4exjBDj&export=download&authuser=0&confirm=t.mkv
+04 Los_Tesoros_de_los_Dioses
+https://drive.usercontent.google.com/download?id=1hqRdq6PA6F74KXZXE44E6I6g7htZXVNw&export=download&authuser=0&confirm=t.mkv
+05 Alienigenas_y_El_Planeta_Rojo
+https://drive.usercontent.google.com/download?id=1JjrPq3v1jSi_qMlj4gxL76emJVAE-6cQ&export=download&authuser=0&confirm=t.mkv
+06 Los_Chamanes
+https://drive.usercontent.google.com/download?id=15km7TWIBEz9ZkHU_zScPCQfB7LupxP7n&export=download&authuser=0&confirm=t.mkv
+07 Alienigenas_y_Insectos
+https://drive.usercontent.google.com/download?id=1BJ3jwkiQ81TES3qnhNZWQkRF027S_MDS&export=download&authuser=0&confirm=t.mkv
+08 Ascendientes_Alienigenas
+https://drive.usercontent.google.com/download?id=1pE3O1MHHMMVBbLyOdCUqqxSJPgwUq7gw&export=download&authuser=0&confirm=t.mkv
+09 Alienigenas_y_la_Guerra_Civil
+https://drive.usercontent.google.com/download?id=10-tP5TwmEoyEtp5VrmJm_l3xn8BbAU2I&export=download&authuser=0&confirm=t.mkv
+
+nombre: Temporada 8
+01 Transportes_Extraterrestres
+https://drive.usercontent.google.com/download?id=1qyyrqyultmXgnhMCNFnTva8CJZ-3vZGI&export=download&authuser=0&confirm=t.mkv
+02 Estructuras_Misteriosas
+https://drive.usercontent.google.com/download?id=1ISf610t795SXWRadT2KrC2jULnzNDv8D&export=download&authuser=0&confirm=t.mkv
+03 Dispositivos_Misteriosos
+https://drive.usercontent.google.com/download?id=1n99BGUgdL4eKD5adopsrStayk69TK__P&export=download&authuser=0&confirm=t.mkv
+04 La_Apariencia_de_los_Dioses
+https://drive.usercontent.google.com/download?id=1YoPhc9PrtR4iiFh1tGe_Up73lDUnDSEt&export=download&authuser=0&confirm=t.mkv
+05 Reptilianos
+https://drive.usercontent.google.com/download?id=1gqxY-ILyWfJ7j42BdKUqLb3g6-vISiL5&export=download&authuser=0&confirm=t.mkv
+06 Experimento_Tesla
+https://drive.usercontent.google.com/download?id=1Tzdzjr3bjW9Z7TTyM59KhhA0EAdGexSO&export=download&authuser=0&confirm=t.mkv
+07 La_Particula_de_Dios
+https://drive.usercontent.google.com/download?id=1daydYQWWA9PCtzA0DXXSSpV3GjtQ3iRT&export=download&authuser=0&confirm=t.mkv
+08 Encuentros_Alienigenas
+https://drive.usercontent.google.com/download?id=1RFoke_bQi0i0c_ofyKeuXIjXFiz6QuH3&export=download&authuser=0&confirm=t.mkv
+09 Alienigenas_y_Super_Heroes
+https://drive.usercontent.google.com/download?id=15EVmzHENp5GPLrdVV5YvvrB1y6ZbHWCA&export=download&authuser=0&confirm=t.mkv
+10 Mensajes_Alienigenas
+https://drive.usercontent.google.com/download?id=1QSogW7MEaQgYWXrYJFYd_yke27Ko_2kM&export=download&authuser=0&confirm=t.mkv
+
+nombre: Temporada 9
+01 Cuevas_Prohibidas
+https://drive.usercontent.google.com/download?id=1WMaAcY04oUjpF2AkCkiQGqldHXWfCjE_&export=download&authuser=0&confirm=t.mkv
+02 Los_Misterios_de_la_Esfinge
+https://drive.usercontent.google.com/download?id=1ez0vWHsyiHDxYTmzY4643MhzeKFbUoWc&export=download&authuser=0&confirm=t.mkv
+03 Alienigenas_entre_Nosotros
+https://drive.usercontent.google.com/download?id=1FWoWNQegEe1eyLZLb-9HjYiGbZxjWBPi&export=download&authuser=0&confirm=t.mkv
+04 El_Factor_de_la_Genialidad
+https://drive.usercontent.google.com/download?id=1KknURr3XPkGt3Ipcfv2eH_XnbuFLdibK&export=download&authuser=0&confirm=t.mkv
+05 Secretos_de_las_Momias
+https://drive.usercontent.google.com/download?id=1yADtbwxOh6zsjO7V6nXDTFBlsSYEPyW7&export=download&authuser=0&confirm=t.mkv
+06 Resurreciones_Alienigenas
+https://drive.usercontent.google.com/download?id=1st-4xoo9Lpd7sL1liWaNEuvnGR20AC3B&export=download&authuser=0&confirm=t.mkv
+07 El_Diluvio_Universal
+https://drive.usercontent.google.com/download?id=1SEjSaFKGp76ExOgUYGjhkqj34XIuP7xO&export=download&authuser=0&confirm=t.mkv
+08 Piramides_Escondidas
+https://drive.usercontent.google.com/download?id=1dDIXCcsb7_q7fGSfd1p8z7ouwVVibt3a&export=download&authuser=0&confirm=t.mkv
+09_-Desapariciones
+https://drive.usercontent.google.com/download?id=1mKw-9aqlqV4Y-N0BtCfPvQhdTSFWBa_D&export=download&authuser=0&confirm=t.mkv
+10 La_Agenda_Alienigena
+https://drive.usercontent.google.com/download?id=1CHB5m5urLw5-sXkE3GyoLTkW8W7EVHtS&export=download&authuser=0&confirm=t.mkv
+
+nombre: Temporada 10
+01 Aliens_B.C
+https://drive.usercontent.google.com/download?id=1HXJFOyA7sn-iFiwTxyZ9NFMlebWSwvFj&export=download&authuser=0&confirm=t.mkv
+02 El_Plan_Secreto_de_la_NASA
+https://drive.usercontent.google.com/download?id=1kBp67Sxr33grwrlyg1SRCm-si7V6N18u&export=download&authuser=0&confirm=t.mkv
+03 Alienigenas & Robots
+https://drive.usercontent.google.com/download?id=1ddQ5hO2O4142KurvZIM0CrRYOvbn2Ayc&export=download&authuser=0&confirm=t.mkv
+04 Fuerzas_Oscuras
+https://drive.usercontent.google.com/download?id=1fMXRIZw9Lnd7k3kTRxKB5QXKpeg7ipko&export=download&authuser=0&confirm=t.mkv
+05 Evolucion_Alienigena
+https://drive.usercontent.google.com/download?id=14j8xO4WwUP2aPxxiNRZ-I-Q6YO6dy8_r&export=download&authuser=0&confirm=t.mkv
+06 La_Otra_Tierra
+https://drive.usercontent.google.com/download?id=1f7EiOOzdQu1kFdmfQW09cAE6DSczBc4-&export=download&authuser=0&confirm=t.mkv
+07 Criaturas_De_Las_Profundidades
+https://drive.usercontent.google.com/download?id=1xZ_mPM-TPvAhOh_GNONacmnMjsCyLtge&export=download&authuser=0&confirm=t.mkv
+08 Circulos_Desde_El_Cielo
+https://drive.usercontent.google.com/download?id=1tW9lsIy4SWa58DrtQ1PqXPFN0FDOb9hM&export=download&authuser=0&confirm=t.mkv
+09 Guerras_Alienigenas
+https://drive.usercontent.google.com/download?id=1u80a59DrvLAc2ZxwBLELfmjhZ78g2Izx&export=download&authuser=0&confirm=t.mkv
+10 Las_Zonas_Prohibidas
+https://drive.usercontent.google.com/download?id=1zeAKDf2RrBMgW0YuPOjQc175ZvKfI-ho&export=download&authuser=0&confirm=t.mkv
+
+nombre: Temporada 11
+01 Piramides_de_la_Antartida
+https://drive.usercontent.google.com/download?id=16LWEjStJXe2brOdG0-o5XAHwAXAhO6qi&export=download&authuser=0&confirm=t.mkv
+02 Destino_Marte
+https://drive.usercontent.google.com/download?id=1vKpDhikdGaBgjfZ-tR-UPHlefNoDvQ14&export=download&authuser=0&confirm=t.mkv
+03 Los_Proximos_Humanos
+https://drive.usercontent.google.com/download?id=1PqOL-Fpip-FwnsKbUr3__jOhzQv7SePR&export=download&authuser=0&confirm=t.mkv
+04 La_Nueva_Evidencia
+https://drive.usercontent.google.com/download?id=1mr2xBRX1sGPDaWeg2dDUMm-KIQY_M4IJ&export=download&authuser=0&confirm=t.mkv
+05 Los_Visionarios
+https://drive.usercontent.google.com/download?id=1cLiTiQYB4Nsr5FTj5m2nrEllROKWiwBE&export=download&authuser=0&confirm=t.mkv
+06 Decodificando_El_Huevo_Cosmico
+https://drive.usercontent.google.com/download?id=1Avg-OvP-H8NvZsURFsV1NEs7xlQoemvq&export=download&authuser=0&confirm=t.mkv
+07 Los_Guardianes_De_La_Sabiduria
+https://drive.usercontent.google.com/download?id=137iIRccOpSk5OUX79fgdJiex2W8n65YJ&export=download&authuser=0&confirm=t.mkv
+08 Los_Misteriosos_Nueve
+https://drive.usercontent.google.com/download?id=1dTH2n5Vs196G89WJvRghlT0TKfSWrN0f&export=download&authuser=0&confirm=t.mkv
+09 El_Imperio_Escondido
+https://drive.usercontent.google.com/download?id=15gFu2Ot1nOKW05UWCCkITDrnKXsLY9Xs&export=download&authuser=0&confirm=t.mkv
+10 Los_Prototipos
+https://drive.usercontent.google.com/download?id=1sRsE2Ks9qyU16F5TSCFkZ_xXBDTKWrRy&export=download&authuser=0&confirm=t.mkv
+11 Estacion_Espacial_Lunar
+https://drive.usercontent.google.com/download?id=1G6RZ_7WAdlgqVQB6CtSHSxJ50Q_RXnl2&export=download&authuser=0&confirm=t.mkv
+12 Archivos_Secretos_De_Rusia
+https://drive.usercontent.google.com/download?id=1UgAmxu-U3yghw8nLRzTk5qUjX1vis-8e&export=download&authuser=0&confirm=t.mkv
+13 Mas_Alla_de_Roswell
+https://drive.usercontent.google.com/download?id=11KrpKIHIz7Qe8SKWSdQedCZSxdvGCdp6&export=download&authuser=0&confirm=t.mkv
+14 Los_Regresados
+https://drive.usercontent.google.com/download?id=1l6vyA2F7ECKESofPiVDtti4CYHByE9dd&export=download&authuser=0&confirm=t.mkv
+15 Shiva_El_Destructor
+https://drive.usercontent.google.com/download?id=1lma49_VmGiRAUfhGrZQ6iMqpA_adjKqT&export=download&authuser=0&confirm=t.mkv
+
+nombre: Temporada 12
+01 Los_Cazadores_de_Alienigenas
+https://drive.usercontent.google.com/download?id=1pU-E9vABQ8VpcsfOmofPye7IEbPECRaL&export=download&authuser=0&confirm=t.mkv
+02 Creado_Por_Los_Dioses
+https://drive.usercontent.google.com/download?id=1qNPzFxN0-T6dSX5XkyBtBHTcV8x7v3zx&export=download&authuser=0&confirm=t.mkv
+03 El_Misterio_de_Rudloe_Manor
+https://drive.usercontent.google.com/download?id=1WkKrRw_D_COJ15Xd06QnthH8hUKgIgq5&export=download&authuser=0&confirm=t.mkv
+04 Arquitectos_Alienigenas
+https://drive.usercontent.google.com/download?id=1gxluu-V2cjWeuMW5gDAoTsMaSN-QbB2i&export=download&authuser=0&confirm=t.mkv
+05 La_Maldicion_del_Faraon
+https://drive.usercontent.google.com/download?id=11T2UBbISKQ8rFKezVhTMwL49fGcG25li&export=download&authuser=0&confirm=t.mkv
+06 Las_Guerras_de_la_Ciencia
+https://drive.usercontent.google.com/download?id=17f0aJBrsaHUxZRTt6D-rkfRhcbWqnDeQ&export=download&authuser=0&confirm=t.mkv
+07 La_Ciudad_de_los_Dioses
+https://drive.usercontent.google.com/download?id=1fOzsrqZ9M74i3PdgFR1JrXv4SUDC1tmR&export=download&authuser=0&confirm=t.mkv
+08 Frecuencia_Alienigena
+https://drive.usercontent.google.com/download?id=1c96KE9kbBuA3f0A89Cs30SzdCDafraTT&export=download&authuser=0&confirm=t.mkv
+09 Los_12_Magestuosos
+https://drive.usercontent.google.com/download?id=1wLf2WEJDusWsbI3ho3b5YD2DFvJycX1s&export=download&authuser=0&confirm=t.mkv
+10 Los_Registros_Akashicos
+https://drive.usercontent.google.com/download?id=1SAF7AWkUftLqtSvDYbyKSqppW7f2GwhX&export=download&authuser=0&confirm=t.mkv
+11 Las_Voces_de_los_Dioses
+https://drive.usercontent.google.com/download?id=1pWYiag6Sd6DAUtIMaYD8FeKl6mhfUxUc&export=download&authuser=0&confirm=t.mkv
+12 La_Agenda_Animal_
+https://drive.usercontent.google.com/download?id=1xfUZjNHHwqlHJ523Ik-clvSSEqBYrt9A&export=download&authuser=0&confirm=t.mkv
+13 Los_Replicantes
+https://drive.usercontent.google.com/download?id=1MznKeM93zhhj4VCGZ-xodDq0uZvNXoTh&export=download&authuser=0&confirm=t.mkv
+14 Una_Nave_Espacial_Hecha_de_Piedra
+https://drive.usercontent.google.com/download?id=1eVejW-OFHya8pM14QPG0UtQYzWT9740t&export=download&authuser=0&confirm=t.mkv
+15 Los_Discos_Alienigenas
+https://drive.usercontent.google.com/download?id=1GMd0cTLrs-9VEL3Eohjq6fXrzgyYSjM_&export=download&authuser=0&confirm=t.mkv
+16 Regreso_A_Gobekli_Tepe
+https://drive.usercontent.google.com/download?id=1AXaPyRxxjFlELZDJIA2we0nc4Oj-qCpB&export=download&authuser=0&confirm=t.mkv
+
+nombre: Temporada 13
+01 The UFO Conspiracy
+https://drive.usercontent.google.com/download?id=1Z_y2o2-DwsJDrbTjJs_yzr_4ohrnTHpz&export=download&authuser=0&confirm=t.mkv
+02 Da Vinci´s Forbidden Codes
+https://drive.usercontent.google.com/download?id=1S7nnjwWmRqpypUJ9fgI1PHGm7dD5oeTv&export=download&authuser=0&confirm=t.mkv
+03 The Alien Protocols
+https://drive.usercontent.google.com/download?id=1JLBR6SW4etf1Hk-1r_Jhr1hCY3IbL9Eq&export=download&authuser=0&confirm=t.mkv
+04 Earth's Black Holes
+https://drive.usercontent.google.com/download?id=1Z9O5152N1gvCGRmHaTYl9GvJ8Q9cfBmx&export=download&authuser=0&confirm=t.mkv
+05 The Desert Codes
+https://drive.usercontent.google.com/download?id=1ZSJQyOMndsmFSE-tMsAZMG8EKK1M0YUr&export=download&authuser=0&confirm=t.mkv
+06 Area 52
+https://drive.usercontent.google.com/download?id=1WYySjKdXCY-5E-jAt0x36BLpufEB6TV8&export=download&authuser=0&confirm=t.mkv
+07 Earth Station Egypt
+https://drive.usercontent.google.com/download?id=10OP3ufPgAmwuFnDOsR5KifMkn2JbstL-&export=download&authuser=0&confirm=t.mkv
+08 Island Of The Giants
+https://drive.usercontent.google.com/download?id=1TMagi5w-v2Ppo9uQpX4fttIubMak7QuS&export=download&authuser=0&confirm=t.mkv
+09 The Taken
+https://drive.usercontent.google.com/download?id=1UGRjddvGE9NlNYTePK7NesuKaCreqfMe&export=download&authuser=0&confirm=t.mkv
+10 The Sentinels
+https://drive.usercontent.google.com/download?id=1SUxjg2miFunylq6cldSeI7D3srBu_2r1&export=download&authuser=0&confirm=t.mkv
+11 Russia Declassified
+https://drive.usercontent.google.com/download?id=1PWIm55q3EUHy7aB_IxxzASeaHknD6Q9m&export=download&authuser=0&confirm=t.mkv
+12 They Came From The Sky
+https://drive.usercontent.google.com/download?id=1R-yE75pTTv4VImOLt_hlIoXLN3FDSHbo&export=download&authuser=0&confirm=t.mkv
+13 The Artificial Human
+https://drive.usercontent.google.com/download?id=1AWDBiS2x0ovJdvgbrAmHvAlOV-nWVyaD&export=download&authuser=0&confirm=t.mkv
+14 The Alien Phenomenon
+https://drive.usercontent.google.com/download?id=1HYwfykHHhoTtEvNpFbGQq1FNlWFOT2NU&export=download&authuser=0&confirm=t.mkv
+15 Return to Mars
+https://drive.usercontent.google.com/download?id=1wayQHldjXI7q_Vnm8sq5xU0UBuLooHXi&export=download&authuser=0&confirm=t.mkv
+
+nombre: Temporada 14
+01 Regreso a la Antartica
+https://drive.usercontent.google.com/download?id=1iizUkbg-B_GHmu2iNU9AH4rVmGbabMbL&export=download&authuser=0&confirm=t.mkv
+02 Los guardianes de Badlands
+https://drive.usercontent.google.com/download?id=1B_zskqNWGlvk4csPPZyKDBjVFxER0HnY&export=download&authuser=0&confirm=t.mkv
+03 Elemento 115
+https://drive.usercontent.google.com/download?id=11KJ5O-8mchgqmUIdl7NRzWFNms1Ww512&export=download&authuser=0&confirm=t.mkv
+04 Los Dioses Estelares de Sirius
+https://drive.usercontent.google.com/download?id=1MAVORuXlL2i_O-ytWx0xcC89kM9NQHL-&export=download&authuser=0&confirm=t.mkv
+05 Vinieron del mar
+https://drive.usercontent.google.com/download?id=1tFwiMlRFtcFwL9o2Z0OOO1XAbhdMCKNX&export=download&authuser=0&confirm=t.mkv
+06 Secretos de los maya
+https://drive.usercontent.google.com/download?id=1UimXmp2HWR9eZbiS6lMKFz8k-PdlkhVl&export=download&authuser=0&confirm=t.mkv
+07 La Conexion Druida
+https://drive.usercontent.google.com/download?id=1zwdUUql29WQtDimM7LL6y81YVDut8-H5&export=download&authuser=0&confirm=t.mkv
+08 La Agenda Reptiliana
+https://drive.usercontent.google.com/download?id=1n2HMBso37ZG3g7F2b-9uxIcM3zYPccRA&export=download&authuser=0&confirm=t.mkv
+09 La Infeccion Alienigena
+https://drive.usercontent.google.com/download?id=1oxBC8H0Lmfsb_fOI5dE1H-v1Cy3IaxOx&export=download&authuser=0&confirm=t.mkv
+10 Proyecto Hibrido
+https://drive.usercontent.google.com/download?id=1IeZ3GGHHehXQJxWl_IIBKM04Sczo8c5P&export=download&authuser=0&confirm=t.mkv
+11 Los Transdimensionales
+https://drive.usercontent.google.com/download?id=1FbewINwGRA3p61gy6INkDd2kNq8t1UVq&export=download&authuser=0&confirm=t.mkv
+12 Islas de fuego
+https://drive.usercontent.google.com/download?id=1rvBLQrP1hjxn-mfJ2j7Bm3sNIcNJO8hh&export=download&authuser=0&confirm=t.mkv
+13 El codigo de las constelaciones
+https://drive.usercontent.google.com/download?id=1bfCNCKsa1Fxv2UmSklpeAerdyrxJ5q6a&export=download&authuser=0&confirm=t.mkv
+14 El plan nuclear
+https://drive.usercontent.google.com/download?id=1GnIo6xWqA7fLP3vclmb-fbm7mGZNyFiU&export=download&authuser=0&confirm=t.mkv
+15 La montana alienigena
+https://drive.usercontent.google.com/download?id=19roEH1XzWivRx6wNU-TnQ1vwK05bOQXH&export=download&authuser=0&confirm=t.mkv
+16 El cerebro alienigena
+https://drive.usercontent.google.com/download?id=13GEjZV3_Dd7FIoIPG7sVm4z_gBV-ZtBN&export=download&authuser=0&confirm=t.mkv
+17 Los secretos de Stonehenge
+https://drive.usercontent.google.com/download?id=147azZAREl7S0RWQB3nMXxLT-2dYjUjBb&export=download&authuser=0&confirm=t.mkv
+18 Comida de los dioses
+https://drive.usercontent.google.com/download?id=1GwYpv_-ZD_brRDtTFMr4m21uFZiR__9d&export=download&authuser=0&confirm=t.mkv
+19 Jeroglificos humanos
+https://drive.usercontent.google.com/download?id=1973htwvNTE767Y-53EQdSrgjGRVrxBeu&export=download&authuser=0&confirm=t.mkv
+20 El Asalto al  rea 51
+https://drive.usercontent.google.com/download?id=1EqSrhkWoVR7VGtoqHOtJAjlydOpIUbI_&export=download&authuser=0&confirm=t.mkv
+21 Conteo regresivo a la revelacion
+https://drive.usercontent.google.com/download?id=1Oe6Z97SFSzIhmyVpH4iaxZWgAv08au-t&export=download&authuser=0&confirm=t.mkv
+22 Secretos de los Exoplanetas
+https://drive.usercontent.google.com/download?id=1xuZsSMKdhgnQgZ0S4jyqaYxFH7GYP1sh&export=download&authuser=0&confirm=t.mkv
+
+nombre: Temporada 15
+01 The Mystery of Nan Madol
+https://drive.usercontent.google.com/download?id=1DQ91X6R1pR0caJ57y7mOmnd7UdJBagB_&export=download&authuser=0&confirm=t.mkv
+02 The Relics of Roswell
+https://drive.usercontent.google.com/download?id=1Ogb_2e0DEdS7ASw2UyyrJPCGzvGynHcH&export=download&authuser=0&confirm=t.mkv
+03 Destination Chile
+https://drive.usercontent.google.com/download?id=1yHMiY5IV16lLFWYfuBAETcIoesbeg6dh&export=download&authuser=0&confirm=t.mkv
+04 The Real Men in Black
+https://drive.usercontent.google.com/download?id=18k398-jKjGObjRwCpvAcO3Ec2rL1P3HS&export=download&authuser=0&confirm=t.mkv
+05 The Mystery of the Stone Giants
+https://drive.usercontent.google.com/download?id=1LDesv9YtHqIDMkLTI8_6g5FbiLT98-AE&export=download&authuser=0&confirm=t.mkv
+06 The World Before Time
+https://drive.usercontent.google.com/download?id=1PPn-WhVusFHSg32h8ZGilSPRojplKwOB&export=download&authuser=0&confirm=t.mkv
+07 They Came from The Pleiades
+https://drive.usercontent.google.com/download?id=19M7NiU9inWyNpHyb7mCyyWy7YKG05DGi&export=download&authuser=0&confirm=t.mkv
+08 The Immortality Machine
+https://drive.usercontent.google.com/download?id=1_YJlchUjgGiWn1qh7gSbWPZxgKGeD7m2&export=download&authuser=0&confirm=t.mkv
+09 The Shapeshifters
+https://drive.usercontent.google.com/download?id=1yj9F0dDIrCMusb0kt_L-a1RDwL0VyTTv&export=download&authuser=0&confirm=t.mkv
+10 The Mystery of Skinwalker Ranch
+https://drive.usercontent.google.com/download?id=1xiy4Qhm4C5gpk8OzxKHAmQM6soihtXKZ&export=download&authuser=0&confirm=t.mkv
+11 The Ultimate Guide to UFOs
+https://drive.usercontent.google.com/download?id=1gsN6nACWgSvpCkCmKCTyUmjvWD_qzAvZ&export=download&authuser=0&confirm=t.mkv
+12 Aliens and the Presidents
+https://drive.usercontent.google.com/download?id=19j523dMs_oLJplN2udytjRpjzLOmmg0D&export=download&authuser=0&confirm=t.mkv

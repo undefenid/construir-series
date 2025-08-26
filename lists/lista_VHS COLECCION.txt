@@ -1,0 +1,38 @@
+Nombre: Series populares
+
+Nombre: VHS COLECCION
+
+genero: Suspense, Terror
+
+descripción: La saga de películas "V/H/S" se ha consolidado como un referente ineludible del cine de terror en formato found footage (metraje encontrado). A través de una serie de antologías, cada entrega presenta una colección de cortometrajes de horror que exploran diversos subgéneros, desde lo paranormal y monstruoso hasta la ciencia ficción y el gore, todo ello unificado por una narrativa marco que contextualiza el descubrimiento de estas cintas de video malditas.
+
+anio: 2012
+
+iconPng: https://image.tmdb.org/t/p/original/4q5p4R7vJZ64y1GCu4JUMXNImk8.png
+
+icono: https://image.tmdb.org/t/p/original/pAA5ERKkFdkkTAFOBBRpKVko8w0.jpg
+
+logohorizontal: https://image.tmdb.org/t/p/original/xAC9kXLxUHpdCkISgYcLzYrxIQR.jpg
+
+temporadas
+nombre: temporada 1
+
+tmbdid: 84348
+
+
+01 VHS (2012)
+https://drive.usercontent.google.com/download?id=1IRrk05XVa3pUKs6RxDo1sY-0ouvKDJ4B&export=download&authuser=0&confirm=t.mkv
+02 VHS 2 (2013)
+https://drive.usercontent.google.com/download?id=1s3MbL4GwuJeX9mPtJ3UpKaoOJ3BlATTQ&export=download&authuser=0&confirm=t.mkv
+03 VHS 3[VIRAL] (2014)
+https://drive.usercontent.google.com/download?id=1wJSZFYEP7Ep8LjLJV1aROAiHOd4ZR0Fe&export=download&authuser=0&confirm=t.mkv
+04 VHS 4 [SIREN] (2016)
+https://drive.usercontent.google.com/download?id=1WWGVSKis8Y8fzhW1gJuKdFoPKTKnoPrS&export=download&authuser=0&confirm=t.mkv
+05 VHS 5 [94] (2021)
+https://drive.usercontent.google.com/download?id=1fnTimmo1vtTXWWfMFbvsGuISy5SeFuES&export=download&authuser=0&confirm=t.mkv
+06 VHS 6 [99] (2022)
+https://drive.usercontent.google.com/download?id=1h8nFSKKBRWB1zz1CLu4f-_TdihdX7Tzj&export=download&authuser=0&confirm=t.mkv
+07 VHS 7 [85] (2023)
+https://drive.usercontent.google.com/download?id=10AfYPUUEevEQQeME1lAygZW-ph_BQ_UH&export=download&authuser=0&confirm=t.mkv
+08 VHS 8 [Beyond] (2024)
+https://drive.usercontent.google.com/download?id=19JJVLCj0psRcsZDZc8PeXlZLWjszAxT4&export=download&authuser=0&confirm=t.mkv

@@ -1,0 +1,99 @@
+Nombre: Series populares
+
+Nombre: La casa de los dibujos
+
+genero: Animación, Comedia, Reality
+
+descripción: La casa de los dibujos parodia de forma grotesca los sucesos de un Reality show, y en particular de shows como Big Brother y The Real World de MTV; en este sentido habrá unos concursantes en una casa y deberán interrelacionarse, la parodia de la serie va más lejos debido a que los personajes son tomados de otros dibujos animados, de videojuegos e incluso de un flash de internet.
+
+anio: 2004
+
+iconPng: https://image.tmdb.org/t/p/original/lkLhSgyxa4IelM86lG3UaoIgew4.png
+
+icono: https://image.tmdb.org/t/p/original/lxG5Tlor3KT3IBPEw9ftzdm2TWC.jpg
+
+logohorizontal: https://image.tmdb.org/t/p/original/s2ZPN1He5oHYYnH6eglPFT5rFf1.jpg
+
+temporadas
+nombre: temporada 1
+
+tmbdid: 4336
+
+01 Hot Tub
+https://drive.usercontent.google.com/download?id=1uDWfQDEaRyEk8cbfKXqmbCsxXJ7qlA5V&export=download&authuser=0&confirm=t.mkv
+02 Clara's Dirty Little Secret
+https://drive.usercontent.google.com/download?id=1hJx0rYhV7weUy17LUUc9zljogMLDbjC0&export=download&authuser=0&confirm=t.mkv
+03 Gay Bash
+https://drive.usercontent.google.com/download?id=10Nt-8VFbhISb3OqTxXe1sxPQfx7IrsqE&export=download&authuser=0&confirm=t.mkv
+04 Requiem for a Reality Show
+https://drive.usercontent.google.com/download?id=1UCSWiixqQaCDu8vZsqfYDi5_Ov-EYPq7&export=download&authuser=0&confirm=t.mkv
+05 The Other Cousin
+https://drive.usercontent.google.com/download?id=1OD_o3qXZSkyXbWdpTiLRdea5Y5SIDF-H&export=download&authuser=0&confirm=t.mkv
+06 Dirty Pranking No. 2
+https://drive.usercontent.google.com/download?id=1QOIbIpOduD25stG07M0SU_0_4esd2_D3&export=download&authuser=0&confirm=t.mkv
+07 The One Wherein There Is a Big Twist
+https://drive.usercontent.google.com/download?id=1iBVr38kJ06YzgVG1gu0R4ecz_JcjnvF-&export=download&authuser=0&confirm=t.mkv
+
+nombre: Temporada 2
+01 The One Wherein There Is A Big Twist
+https://drive.usercontent.google.com/download?id=15kT-7N0ysuAxNWktXSjUcsdJ9k1tji7A&export=download&authuser=0&confirm=t.mkv
+02 Foxxy vs. the Board of Education
+https://drive.usercontent.google.com/download?id=1QUOEg4gBHAM1uj_ZQs5botpMYwXAW1Yj&export=download&authuser=0&confirm=t.mkv
+03 Little Orphan Hero
+https://drive.usercontent.google.com/download?id=1-lVfJVRVOduiUwFfWLxiE_ORFgebMudL&export=download&authuser=0&confirm=t.mkv
+04 Captain Hero's Marriage Pact
+https://drive.usercontent.google.com/download?id=1oiedKA_nux1kqHSHVpwpm7EuwUFRvWIY&export=download&authuser=0&confirm=t.mkv
+05 Clum Babies
+https://drive.usercontent.google.com/download?id=1qg4FjkbXdNYqHq6cbcRYIYmaKLvQBRCW&export=download&authuser=0&confirm=t.mkv
+06 Ghostesses in the Slot Machine
+https://drive.usercontent.google.com/download?id=1m8d-s9HiNdJHE7tASUm8FrmwRpzXSVaD&export=download&authuser=0&confirm=t.mkv
+07 Super Nanny
+https://drive.usercontent.google.com/download?id=1ADgOVihzvZh99l_LwWIsUtmETSr8m7OX&export=download&authuser=0&confirm=t.mkv
+08 Terms of Endearment
+https://drive.usercontent.google.com/download?id=1BS3_0A-vHZE6-34L3_CiTb_uTmvxi8SF&export=download&authuser=0&confirm=t.mkv
+09 Captain Girl
+https://drive.usercontent.google.com/download?id=1GlzkpDCqqf8KnP7oR12WRPzYDqUO5VP8&export=download&authuser=0&confirm=t.mkv
+10 A Tale of Two Cows
+https://drive.usercontent.google.com/download?id=1bYlXTmx9pScu44Yy0K__NxYoDVl-0Jdc&export=download&authuser=0&confirm=t.mkv
+11 Xandir and Tim, Sitting in a Tree
+https://drive.usercontent.google.com/download?id=1EvwcYR5sJC2Z9BO7oYEHQhdzjPFUrZpi&export=download&authuser=0&confirm=t.mkv
+12 The Lemon-AIDS Walk
+https://drive.usercontent.google.com/download?id=1DeX-4Q4CWvHfOEOy6sjz6kwED-l9z6tA&export=download&authuser=0&confirm=t.mkv
+13 A Very Special Drawn Together Afterschool Special
+https://drive.usercontent.google.com/download?id=1sLHKZDXx8Q5dv9NexWE_uhq7WjxV76xn&export=download&authuser=0&confirm=t.mkv
+14 Alzheimer's That Ends Well
+https://drive.usercontent.google.com/download?id=1a-r-AtgWjdIcpECjOcypHZsPdSuuMLeI&export=download&authuser=0&confirm=t.mkv
+15 The Drawn Together Clip Show
+https://drive.usercontent.google.com/download?id=146dkLBdkET-EkRQKSeA_szJ5gTkPy-bd&export=download&authuser=0&confirm=t.mkv
+
+nombre: Temporada 3
+01 Freaks & Greeks
+https://drive.usercontent.google.com/download?id=1y01AOI1dlJJAt-IpPAgc52wwsp2idM_P&export=download&authuser=0&confirm=t.mkv
+02 Wooldoor Sockbat's Giggle-Wiggle Funny Tickle Non-Traditional Progressive Multicultural Roundtable!
+https://drive.usercontent.google.com/download?id=18lfdb5Tj-fm_iqN8QZJpanal7jCHlROg&export=download&authuser=0&confirm=t.mkv
+03 Spelling Applebee's
+https://drive.usercontent.google.com/download?id=1u0n-7IQb-A-2p9kNKb5HAhYThOc8AFYi&export=download&authuser=0&confirm=t.mkv
+04 Unrestrainable Trainable
+https://drive.usercontent.google.com/download?id=1aCChs5SettYZwVF1Xqgoz7Sp1XQIJB_9&export=download&authuser=0&confirm=t.mkv
+05 N.R.A.y RAY
+https://drive.usercontent.google.com/download?id=13ZbxrukBuSCiQQGe4BqFvp2B-3td8PlI&export=download&authuser=0&confirm=t.mkv
+06 Mexican't Buy Me Love
+https://drive.usercontent.google.com/download?id=15tz6ySb9Ibgg404NdvSbobSVqgRVarMO&export=download&authuser=0&confirm=t.mkv
+07 Lost in Parking Space, Part One
+https://drive.usercontent.google.com/download?id=1HzE5OZMfZiMHiAfHPtoKnuy86vbWAJXc&export=download&authuser=0&confirm=t.mkv
+08 Lost in Parking Space, Part Two
+https://drive.usercontent.google.com/download?id=1NLHlCdscLhebyYc8ZkIMZiJZ8ICvlcUW&export=download&authuser=0&confirm=t.mkv
+09 Charlotte's Web of Lies
+https://drive.usercontent.google.com/download?id=1tYrtcwN9WR7_9KOdGxE-e62JgZpVcO0c&export=download&authuser=0&confirm=t.mkv
+10 Breakfast Food Killer
+https://drive.usercontent.google.com/download?id=1Ii1K2c10FB4gHpiY9Hcpow-rIjcgJgBp&export=download&authuser=0&confirm=t.mkv
+11 Drawn Together Babies
+https://drive.usercontent.google.com/download?id=1fDhNn75T9OKMyu1RWTskXMQCJ76yJ215&export=download&authuser=0&confirm=t.mkv
+12 Nipple Ring-Ring Goes to Foster Care
+https://drive.usercontent.google.com/download?id=1xZZjvKuK17b7brYZV1Y9foLvkAfDFxez&export=download&authuser=0&confirm=t.mkv
+13 Toot Goes Bollywood
+https://drive.usercontent.google.com/download?id=1riIcsJEsdOO6EkkCLjDJdHZTsrvhkowV&export=download&authuser=0&confirm=t.mkv
+14 American Idol Parody Clip Show
+https://drive.usercontent.google.com/download?id=1ncVIbHOGzqTI0gkbd2IxfDqzPQdl8JXa&export=download&authuser=0&confirm=t.mkv
+
+

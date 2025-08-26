@@ -1,0 +1,118 @@
+Nombre: Series populares
+
+Nombre: Mr. Robot
+
+genero: Crimen, Drama
+
+descripción: Elliot Anderson es un joven y brillante programador con problemas para las relaciones sociales que durante el día trabaja como técnico de ciberseguridad de una importante empresa informática y por la noche es un desinteresado justiciero cibernético, que se verá envuelto en una oscura trama.
+
+anio: 2015
+
+iconPng: https://image.tmdb.org/t/p/original/99HyPKoLvUZ9aPzBcTgs1urSvC1.png
+
+icono: https://image.tmdb.org/t/p/original/oKIBhzZzDX07SoE2bOLhq2EE8rf.jpg
+
+logohorizontal: https://image.tmdb.org/t/p/original/8e4Mz00YNEz4BKFnTdfvO0BB6RU.jpg
+
+temporadas
+nombre: temporada 1
+
+tmbdid:62560
+
+
+01 ep.1.0_ holaamigo.mov
+https://drive.usercontent.google.com/download?id=1gJcD8aP8CmALQJxtvIP6SbVpr9vzK7og&export=download&authuser=0&confirm=t.mkv
+02 ep.1.1_unos-y-cer0s.mpeg
+https://drive.usercontent.google.com/download?id=1w0qCTlpqOfyfSdLaNICzLkUcCLEW9qtQ&export=download&authuser=0&confirm=t.mkv
+03 ep.1.2_d3purar.mkv
+https://drive.usercontent.google.com/download?id=1lQ5wUxgT1q8IKfjEXam5a78EwtewjMd3&export=download&authuser=0&confirm=t.mkv
+04 ep.1.3_d3m0ni0s.mpk4
+https://drive.usercontent.google.com/download?id=181zBMCtfzISUNIOM1mKjnuycWxcAGrGx&export=download&authuser=0&confirm=t.mkv
+05 ep.1_4_3xpl0its.wmv
+https://drive.usercontent.google.com/download?id=1vHcn4v-R4xaEd2dzbNvitahB2jmgFVv4&export=download&authuser=0&confirm=t.mkv
+06 ep.1.5_Vi4jero - Va1iente.asf
+https://drive.usercontent.google.com/download?id=1JAEclo_jvPl7S2vbExnFo22Rlo8uZUJ5&export=download&authuser=0&confirm=t.mkv
+07 ep.1.6_V1sta de 0rigen.flv
+https://drive.usercontent.google.com/download?id=1qeVlf4k81i6DNYIvjZ1txPEJAEr5TjZF&export=download&authuser=0&confirm=t.mkv
+08 eps.1.7_Wh1ter0se.m4v
+https://drive.usercontent.google.com/download?id=17QJDaO3_ofQ-w1G7L13JpG5HYeFYtijH&export=download&authuser=0&confirm=t.mkv
+09 eps1.8_m1rr0r1ng.qt
+https://drive.usercontent.google.com/download?id=13I3nvRzLm72OviErbfAg8n13anmhNaSG&export=download&authuser=0&confirm=t.mkv
+10 ep.1.9_Día-cer0.avi
+https://drive.usercontent.google.com/download?id=1ZlNYJwl_5Yr6GE4KCn2pS8PQhIW1rywr&export=download&authuser=0&confirm=t.mkv
+
+nombre: Temporada 2
+01 eps2.0_desenm4scarar.tc 1
+https://drive.usercontent.google.com/download?id=1-u57QSZHNvRz2XFuUK972Hp_1JnDw75-&export=download&authuser=0&confirm=t.mkv
+02 eps2.0_desenm4scarar.tc 2
+https://drive.usercontent.google.com/download?id=168W37qDIAShJQAx4cv0rq59kDIQW2_Mo&export=download&authuser=0&confirm=t.mkv
+03 eps2.1_pán1co-del-k3rnel.ksd
+https://drive.usercontent.google.com/download?id=1ngvDoGWxNVbLtbyhe47wVJ79PGr5lWRT&export=download&authuser=0&confirm=t.mkv
+04 eps2.2_init1.asec
+https://drive.usercontent.google.com/download?id=1sfQH8oXz1OXIZuc9Fc1EH4Qi71a1KMfj&export=download&authuser=0&confirm=t.mkv
+05 eps2.3_b0mba_lógica.hc
+https://drive.usercontent.google.com/download?id=1v_cFSHOGjze-CUXxR2OAYmgGY8UUucJD&export=download&authuser=0&confirm=t.mkv
+06 eps2.4_4mo_esc1avo.aes
+https://drive.usercontent.google.com/download?id=1QBceRruIjZPIUWLJwtN0IF3dk5m2-m-X&export=download&authuser=0&confirm=t.mkv
+07 eps2.5_Apretón_de_m4nos.sme
+https://drive.usercontent.google.com/download?id=1TWsgLG7FdYdlfIIyILRn8KZ5BIGTXbPx&export=download&authuser=0&confirm=t.mkv
+08 eps.2.6_suc3s0r.p12
+https://drive.usercontent.google.com/download?id=1Mw3-9X0KBPgjiRKb6zwSgJ2eVoEV_Hxc&export=download&authuser=0&confirm=t.mkv
+09 eps2.7_init_5.fve
+https://drive.usercontent.google.com/download?id=1DJLwvRRtHpGcC840YNGNl2H1zCGq4xp_&export=download&authuser=0&confirm=t.mkv
+10 eps.2.8_pr0ceso-ocu1to.axx
+https://drive.usercontent.google.com/download?id=1T4CrURsoGboFjM1F_0hCB4jw75mA5DKa&export=download&authuser=0&confirm=t.mkv
+11 eps.2.9_pyth0n.p7z Pt.1
+https://drive.usercontent.google.com/download?id=12nYbDpMa-XO4DQVfu_ABtt6YHEIpF7KB&export=download&authuser=0&confirm=t.mkv
+12 eps2.9_pyth0n.p7z Pt. 2
+https://drive.usercontent.google.com/download?id=1KitCOgJWSL5PnSFZAcx1Fd9eqEG_30zZ&export=download&authuser=0&confirm=t.mkv
+
+nombre: Temporada 3
+01 eps3.0_modo-ahorro-de-energía.h
+https://drive.usercontent.google.com/download?id=16QLZBDS5VGoCSjbdadGpSZ-UpGUggt6_&export=download&authuser=0&confirm=t.mkv
+02 eps3.1_deshacer.gz
+https://drive.usercontent.google.com/download?id=1ib22nx22P-ft3iJxPEYY5Zg-BDhp1XzC&export=download&authuser=0&confirm=t.mkv
+03 Eps3.2_legado.so
+https://drive.usercontent.google.com/download?id=1ljrK7zqXFB32WolR35K8UxVnVybD3900&export=download&authuser=0&confirm=t.mkv
+04 Eps3.3_m3tadatos.par2
+https://drive.usercontent.google.com/download?id=1quhdqEj18ICLMuTeKZxLdmnJTSbt2dpk&export=download&authuser=0&confirm=t.mkv
+05 eps3.4_err0r-entiempodeejecucion.r00
+https://drive.usercontent.google.com/download?id=1ijkxEpBwo-O5wv_H7igouFEpfKLnl7qQ&export=download&authuser=0&confirm=t.mkv
+06 eps3.5_matar-pr0ceso.inc
+https://drive.usercontent.google.com/download?id=1KPIotdAMDshKUbHJRr8ALQ4ytRDt8Bv6&export=download&authuser=0&confirm=t.mkv
+07 Eps3.6_fredrick+tanya.chk
+https://drive.usercontent.google.com/download?id=13lhzZr9hLq53EdbuZLFuQEpSHraRXBSe&export=download&authuser=0&confirm=t.mkv
+08 Eps3.7_no-me-borres.ko
+https://drive.usercontent.google.com/download?id=16tcUEG9djMFm45n2OiJkwI5eIcClZZx0&export=download&authuser=0&confirm=t.mkv
+09 Eps3.8_fase3.torrent
+https://drive.usercontent.google.com/download?id=14VmlowH3bPm0832FCSRcsIyUCDHAvpHD&export=download&authuser=0&confirm=t.mkv
+10 Eps3.9_apagado -r
+https://drive.usercontent.google.com/download?id=1XN4fdUbd6SyaGV1vlpx1QinIvM1UpqLM&export=download&authuser=0&confirm=t.mkv
+
+nombre: Temporada 4
+01 401 No Autorizado
+https://drive.usercontent.google.com/download?id=1s5A6t-hja8YOEEoxDZLVsB3FifJc_BA3&export=download&authuser=0&confirm=t.mkv
+02 402 Pago Requerido
+https://drive.usercontent.google.com/download?id=1D_gc561-q5GBRplW8VJMg4YNCwaOV1AU&export=download&authuser=0&confirm=t.mkv
+03 403 Prohibido
+https://drive.usercontent.google.com/download?id=1Tzq1Cju92y72h5GFCtP1_zkjTRfqcJQF&export=download&authuser=0&confirm=t.mkv
+04 404 No Hallado
+https://drive.usercontent.google.com/download?id=1NzPNADuHBSB6WTqQqx53RtjS45BxauJc&export=download&authuser=0&confirm=t.mkv
+05 405 Método Prohibido
+https://drive.usercontent.google.com/download?id=1wOLMwneBlEXtTWcfVHjMb1MZ_-VDy_Nu&export=download&authuser=0&confirm=t.mkv
+06 406 Inaceptable
+https://drive.usercontent.google.com/download?id=1lPgL2fu3OLfRIHzmq7tNJkmYmrMwuxFL&export=download&authuser=0&confirm=t.mkv
+07 407 Autenticación de Proxy Requerido
+https://drive.usercontent.google.com/download?id=1WvrO16L0zUzVQFxOgDXN1s62nsFjI7P2&export=download&authuser=0&confirm=t.mkv
+08 408 Tiempo Fuera Solicitado
+https://drive.usercontent.google.com/download?id=14MpZdDjMYI7H8tMnRFrXZJGf-kdXyi5r&export=download&authuser=0&confirm=t.mkv
+09 409 Conflicto
+https://drive.usercontent.google.com/download?id=1zhCb-Dq__rjvwsbyntRVi2PXGhntspWm&export=download&authuser=0&confirm=t.mkv
+10 410 Ido
+https://drive.usercontent.google.com/download?id=1OBNj5Lfx4UKYrhUrcr7Prkb-dTg40ruX&export=download&authuser=0&confirm=t.mkv
+11 saLida
+https://drive.usercontent.google.com/download?id=1uN4kzOwief0T3d79JELORiv-OcTVBE9-&export=download&authuser=0&confirm=t.mkv
+12 quiénsoyyo
+https://drive.usercontent.google.com/download?id=11uB1AX9WGOywiVyNtGsvxT0qNSc2qMlv&export=download&authuser=0&confirm=t.mkv
+13 Hola, Elliot
+https://drive.usercontent.google.com/download?id=13uojIaYybJ2GXtTzN34pBkkiVmf14iry&export=download&authuser=0&confirm=t.mkv

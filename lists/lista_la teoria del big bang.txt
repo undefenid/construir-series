@@ -1,0 +1,600 @@
+Nombre: Series populares
+
+Nombre: La Teoría del Big Bang
+
+genero: Comedia
+
+descripción: Leonard y Sheldon son dos físicos que comparten trabajo y apartamento. La serie comienza con la mudanza de Penny, su nueva y atractiva vecina, y hace hincapié en la dificultad de los físicos para relacionarse con personas fuera de su entorno para dar lugar a situaciones cómicas.
+
+anio: 2007
+
+iconPng: https://image.tmdb.org/t/p/original/zE0XcHYGM9oqVtXnLE92FGyDol5.png
+
+icono: https://image.tmdb.org/t/p/original/nfUYfGOGPNgAFy07wawngSNpixo.jpg
+
+logohorizontal: https://image.tmdb.org/t/p/original/8lTeKE3UNEiVTqAMjMJxEX5OsTL.jpg
+
+temporadas
+nombre: temporada 1
+
+tmbdid: 1418
+
+
+01 Piloto
+https://drive.usercontent.google.com/download?id=1HXk4K02VSqwTJvVVBStbQAxYApYpKrpI&export=download&authuser=0&confirm=t.mkv
+02 La hipótesis del gran cerebro
+https://drive.usercontent.google.com/download?id=1oHHkvMFkCgVOvXUkC6VZ4LXcdHs0CG3v&export=download&authuser=0&confirm=t.mkv
+03 El corolario de botas peludas
+https://drive.usercontent.google.com/download?id=1NmZYt5gRcek1tHXf1ztXLP0_t8fFXVS1&export=download&authuser=0&confirm=t.mkv
+04 El efecto del pez luminoso
+https://drive.usercontent.google.com/download?id=1mb4pA4PE_YGAzL97KxY34UvIxGViZMie&export=download&authuser=0&confirm=t.mkv
+05 El postulado de la hamburguesa
+https://drive.usercontent.google.com/download?id=15QXzb7JQlN92YIKzg2WhiplbcKbvY0x3&export=download&authuser=0&confirm=t.mkv
+06 El paradigma de la Tierra Media
+https://drive.usercontent.google.com/download?id=1-zaqUvy3MZ9olB9_pLU0Pa1PwBxQrTN_&export=download&authuser=0&confirm=t.mkv
+07 La paradoja del Wan-Tun
+https://drive.usercontent.google.com/download?id=1b4Vwf9to6u6BXFpyHfiw3ACo55gBE9GW&export=download&authuser=0&confirm=t.mkv
+08 El experimento de Grasshopper
+https://drive.usercontent.google.com/download?id=1Vb_bjiTZ0h9DGNEY3dj9O2kcSXRe1x5G&export=download&authuser=0&confirm=t.mkv
+09 La polarización de Cooper Hofstadter
+https://drive.usercontent.google.com/download?id=1o39Npg_FaP-hYFaelaisnLsm-hWDcggc&export=download&authuser=0&confirm=t.mkv
+10 La decadencia de Loobenfeld
+https://drive.usercontent.google.com/download?id=18I_K_1gn9XwQ0oGZJMx509Fdz4X9flP1&export=download&authuser=0&confirm=t.mkv
+11 La anomalía de la masa de panqueque
+https://drive.usercontent.google.com/download?id=1-7SncH9OF9nCRRiwb34YL8tPYQqhchXr&export=download&authuser=0&confirm=t.mkv
+12 La dualidad Jerusalén
+https://drive.usercontent.google.com/download?id=1_jf4GWpgFoSOEBxw1JA8cOLFEPEKrIHW&export=download&authuser=0&confirm=t.mkv
+13 La conjetura del Bat Tarro
+https://drive.usercontent.google.com/download?id=1kRTtgak-upusNz78OzV9NZc589ydTI_6&export=download&authuser=0&confirm=t.mkv
+14 La aniquilación de Nerdvana
+https://drive.usercontent.google.com/download?id=1ZPaT4Rzpojrth5XqF1R8l7FCBKl4roFi&export=download&authuser=0&confirm=t.mkv
+15 La indeterminación del filete de cerdo
+https://drive.usercontent.google.com/download?id=1NY34pJWvjIMS1mLlmIXyUtBCmUtbaPRG&export=download&authuser=0&confirm=t.mkv
+16 La reacción de cacahuete
+https://drive.usercontent.google.com/download?id=17LBuOHSI-N43S_hXy4bMH0iRpAjcJgYX&export=download&authuser=0&confirm=t.mkv
+17 El factor mandarina
+https://drive.usercontent.google.com/download?id=16DexGmhN6I7NM1NxmcIdzvLEZME1fDvE&export=download&authuser=0&confirm=t.mkv
+
+nombre: Temporada 2
+01 El paradigma del pescado malo
+https://drive.usercontent.google.com/download?id=1nNiY1kqpeS_L2JLoqPPS98JOePUsG2v8&export=download&authuser=0&confirm=t.mkv
+02 La topología Codpiece
+https://drive.usercontent.google.com/download?id=1-LRBAR6pDkxRb86W3eQbqmvaCO2slrkr&export=download&authuser=0&confirm=t.mkv
+03 La sublimación bárbara
+https://drive.usercontent.google.com/download?id=10f8naN8emXrFYw0N4vDHrxvr87ybY1Om&export=download&authuser=0&confirm=t.mkv
+04 La equivalencia del grifo
+https://drive.usercontent.google.com/download?id=1ABkQthQEwDg89fezGlfQlaAOO__JorFn&export=download&authuser=0&confirm=t.mkv
+05 La alternativa euclídea
+https://drive.usercontent.google.com/download?id=1LvO_I47PrGGNK6YMnAMazkIB3HtJQUE6&export=download&authuser=0&confirm=t.mkv
+06 El teorema de Cooper-Nowitzki
+https://drive.usercontent.google.com/download?id=1Im8RIQDnqC6z_9LDDkiVyT6Lypk89jfv&export=download&authuser=0&confirm=t.mkv
+07 La polarización panty piñata
+https://drive.usercontent.google.com/download?id=1tkX3U1iA5acZhK4S2uUP-BnQHEH97moH&export=download&authuser=0&confirm=t.mkv
+08 La expansión de Lizard-Spock
+https://drive.usercontent.google.com/download?id=12EI91-Ok-lkW9oT65JUFlhk-PV27boJ6&export=download&authuser=0&confirm=t.mkv
+09 La triangulación del espárrago blanco
+https://drive.usercontent.google.com/download?id=1jmc7x-4zMe83xNbrmkf0R9ZJFdij915y&export=download&authuser=0&confirm=t.mkv
+10 El rompecabezas Vartabedian
+https://drive.usercontent.google.com/download?id=1jkMiHKDEYuOKB8LtNLMkYgCryhUanoku&export=download&authuser=0&confirm=t.mkv
+11 La hipótesis del regalo del artículo de baño
+https://drive.usercontent.google.com/download?id=168B3eOG59TPXvRhwi8Iqd6-qeLk5QmgU&export=download&authuser=0&confirm=t.mkv
+12 La inestabilidad del robot asesino
+https://drive.usercontent.google.com/download?id=1keqh5XUH9lbF1bx1ud5snPuziG0lNbiR&export=download&authuser=0&confirm=t.mkv
+13 El algoritmo de la amistad
+https://drive.usercontent.google.com/download?id=1o0ATk7PLzd04PfLzoKqqmdvDhHbSdfg0&export=download&authuser=0&confirm=t.mkv
+14 La permeabilidad financiera
+https://drive.usercontent.google.com/download?id=1DR9nvygujF1_qBQ8HiFgMDJ55rKQsAD4&export=download&authuser=0&confirm=t.mkv
+15 La capacidad maternal
+https://drive.usercontent.google.com/download?id=1AVAN_zjkuoCvO4lX7_rmcXC_-0FD-oAA&export=download&authuser=0&confirm=t.mkv
+16 La saturación del cojín
+https://drive.usercontent.google.com/download?id=1pIRw7hj7xE9ZF9E_z24r8_iI-bygSKPM&export=download&authuser=0&confirm=t.mkv
+17 El desenganche Terminator
+https://drive.usercontent.google.com/download?id=1PdfozW31FvmkGbrWdYAya7Tmjx7KjZk8&export=download&authuser=0&confirm=t.mkv
+18 La canción del nanoracimo
+https://drive.usercontent.google.com/download?id=1C5k2Gkq1XYnmv_o6Udlts6zlsu6RR2ws&export=download&authuser=0&confirm=t.mkv
+19 La yuxtaposición de la puta muerta
+https://drive.usercontent.google.com/download?id=1DswC_dN0JipdTLb7o5dGRRpCJb2o1spb&export=download&authuser=0&confirm=t.mkv
+20 El isótopo Hofstadter
+https://drive.usercontent.google.com/download?id=1mnbPH8H79UywHjORnH2Io0CfE6TpLOEk&export=download&authuser=0&confirm=t.mkv
+21 La renormalización de Las Vegas
+https://drive.usercontent.google.com/download?id=1VfmHkgygEXlONgdWwtdL5Qg_WgbEzFoU&export=download&authuser=0&confirm=t.mkv
+22 La turbulencia de los materiales clasificados
+https://drive.usercontent.google.com/download?id=16b5q-oM5Qco3bfF4woUlsDlhrrZk8bZ6&export=download&authuser=0&confirm=t.mkv
+23 La expedición monopolar
+https://drive.usercontent.google.com/download?id=1D1x-eOy5wwGYFbDHhBpBKVtCtjJTfbfo&export=download&authuser=0&confirm=t.mkv
+
+nombre: Temporada 3
+01 La fluctuación del abrelatas eléctrico
+https://drive.usercontent.google.com/download?id=1Q92pldrB0jYg1jKiFLdfgypepFc9BUc_&export=download&authuser=0&confirm=t.mkv
+02 La conjetura Jiminy
+https://drive.usercontent.google.com/download?id=18dKDA4w_jAb2mftyvSgX67mCTRqkG_tC&export=download&authuser=0&confirm=t.mkv
+03 La desviación de Góticowitz
+https://drive.usercontent.google.com/download?id=1BCZnDdQIYpVJYZfqPzRitWnBOS2Ivg8e&export=download&authuser=0&confirm=t.mkv
+04 La solución del pirata
+https://drive.usercontent.google.com/download?id=1fyyA5gumD-oTvlOTLxdPU8DJrkDsrDGG&export=download&authuser=0&confirm=t.mkv
+05 El Corolario del Horrible Recubrimiento de Caramelo
+https://drive.usercontent.google.com/download?id=1ti3e-rKt-YT9nHTKmduYHh9sdjmbKMJR&export=download&authuser=0&confirm=t.mkv
+06 El Vórtice Cornhusker
+https://drive.usercontent.google.com/download?id=1GrXWQPMHuIkEEMVJQko9CxBtoQexlMnp&export=download&authuser=0&confirm=t.mkv
+07 La Amplificación del Guitarrista
+https://drive.usercontent.google.com/download?id=1TF7PzNT0EpmW1QiaqqaXKH_YvaZks2YH&export=download&authuser=0&confirm=t.mkv
+08 La Deficiencia de Patos Adhesivos
+https://drive.usercontent.google.com/download?id=11deGUs9-D1rlPa4JRGz2iBe4tHlzW-Tg&export=download&authuser=0&confirm=t.mkv
+09 La Fórmula para la Venganza
+https://drive.usercontent.google.com/download?id=1jZGCYcDHwXCYh3b23b9cfciZyAA97Gj9&export=download&authuser=0&confirm=t.mkv
+10 El Experimento Gorila
+https://drive.usercontent.google.com/download?id=1-xMyFIVKf-AS2JkdZPBNCmJgNBgNN-Se&export=download&authuser=0&confirm=t.mkv
+11 La Congruencia Maternal
+https://drive.usercontent.google.com/download?id=1DetRsV5cJbCVstrbnNm2ONR3-l475f3b&export=download&authuser=0&confirm=t.mkv
+12 El Vórtice Psíquico
+https://drive.usercontent.google.com/download?id=1Vr9WnD7wfBao8CXoeY_8e4M5ZjbIbXwK&export=download&authuser=0&confirm=t.mkv
+13 La Reacción de Bozeman
+https://drive.usercontent.google.com/download?id=1MBlt4PAyeeumi_DHfkJ5_KucCoxI0-wA&export=download&authuser=0&confirm=t.mkv
+14 La aproximación de Einstein
+https://drive.usercontent.google.com/download?id=1fEOJxWN0Sr2FjYdzrUr6cXUXLSoo-MsK&export=download&authuser=0&confirm=t.mkv
+15 La gran colisión de Hadrones
+https://drive.usercontent.google.com/download?id=1y3GNHkZdy9Erm5Xwywwnk6QwKcO3JGfm&export=download&authuser=0&confirm=t.mkv
+16 La adquisión de Excelsior
+https://drive.usercontent.google.com/download?id=1AG3DeWAl4yk8e7R0Nykt-W2FDHB5Gsm1&export=download&authuser=0&confirm=t.mkv
+17 La fragmentación del tesoro
+https://drive.usercontent.google.com/download?id=1JMBq2mGdP9br2w21EEnE1v51YJJvEE3h&export=download&authuser=0&confirm=t.mkv
+18 La alternativa de los pantalones
+https://drive.usercontent.google.com/download?id=1eu8kVAA0SbxaxP96VrxReFup_1FmHpSZ&export=download&authuser=0&confirm=t.mkv
+19 La Recurrencia Wheaton
+https://drive.usercontent.google.com/download?id=14-cRpHVZhXxLJcH_uKX_3J4hSxy0AQmI&export=download&authuser=0&confirm=t.mkv
+20 El Catalizador de Spaghetti
+https://drive.usercontent.google.com/download?id=1CPkVFTeUfUHbPQrY6o1JvwsMSTmYTKic&export=download&authuser=0&confirm=t.mkv
+21 La estimulación Plimpton
+https://drive.usercontent.google.com/download?id=1yg1Xv1dh0cp_1bhUo_hTsaxsmUPFond5&export=download&authuser=0&confirm=t.mkv
+22 La aplicación de la escalera
+https://drive.usercontent.google.com/download?id=1eqdzTvxnO4UBBLeLKIIhM56GFt_ZEx8c&export=download&authuser=0&confirm=t.mkv
+23 La excitación lunar
+https://drive.usercontent.google.com/download?id=19t7BjjXK3npngWd5VgZ0SzQ-Tic9f9Da&export=download&authuser=0&confirm=t.mkv
+
+nombre: Temporada 4
+01 La manipulación robótica
+https://drive.usercontent.google.com/download?id=1Kw0Nqw1WuqL8LDZ2ol2xQlytSvrRZHLh&export=download&authuser=0&confirm=t.mkv
+02 La amplificación de verduras crucíferas
+https://drive.usercontent.google.com/download?id=1cHHwVTfmOf7PtkgUHU8UeNQRjTovSWus&export=download&authuser=0&confirm=t.mkv
+03 La sustitución de Zazzy
+https://drive.usercontent.google.com/download?id=1ahykPty5y8hdKVuE3iErGVMU46QyYuuL&export=download&authuser=0&confirm=t.mkv
+04 La ardiente desviacion Troll
+https://drive.usercontent.google.com/download?id=1cahTRRgKCA2L-mk30IzL9c1oJC8IdJqL&export=download&authuser=0&confirm=t.mkv
+05 La emanación de la desesperación
+https://drive.usercontent.google.com/download?id=1IKc_8ZqJx7U0ggpA0PJXD6wz-2r3kYNa&export=download&authuser=0&confirm=t.mkv
+06 La formulación del bar irlandés
+https://drive.usercontent.google.com/download?id=1uFRaCCD8JLn7yjBdUBEJXcmcrgFcrjSj&export=download&authuser=0&confirm=t.mkv
+07 La insuficiencia de la disculpa
+https://drive.usercontent.google.com/download?id=173k4CpJlAfBZrIvb0w8aSxswfji6OudM&export=download&authuser=0&confirm=t.mkv
+08 La excitación de 21 segundos
+https://drive.usercontent.google.com/download?id=1xDZge0Ffwvahxi5TWKeWC6rqwV-Nr8Yf&export=download&authuser=0&confirm=t.mkv
+09 La complejidad del novio
+https://drive.usercontent.google.com/download?id=1wyvhziUznD8kJY0VLZdkhkeIMfDJ8KdW&export=download&authuser=0&confirm=t.mkv
+10 La hipótesis del parásito
+https://drive.usercontent.google.com/download?id=1GdsdCs9oWs3rgDfFmFxOWgquZyurKbqO&export=download&authuser=0&confirm=t.mkv
+11 La recombinación de la Liga de la Justicia
+https://drive.usercontent.google.com/download?id=1BSUHCnjUn9uScBD3lPuxelIzB2o_7-8J&export=download&authuser=0&confirm=t.mkv
+12 La utilización de los pantalones para autobus
+https://drive.usercontent.google.com/download?id=1FzHUr7TuCW_woYdc2dSH1QikFgt1M9IL&export=download&authuser=0&confirm=t.mkv
+13 Coche del amor remplazado
+https://drive.usercontent.google.com/download?id=1ETlQOLEa7VYmdMqlBszum5tEPwvz3_gW&export=download&authuser=0&confirm=t.mkv
+14 El catalizador Thespian
+https://drive.usercontent.google.com/download?id=1monYIz-ykDHL834HFMC8vQjYetV31sPN&export=download&authuser=0&confirm=t.mkv
+15 El factor benefactor
+https://drive.usercontent.google.com/download?id=1NaHpUN7inQRfcEihHAsV6BcJgMA4Fw9c&export=download&authuser=0&confirm=t.mkv
+16 La formulación de la convivencia
+https://drive.usercontent.google.com/download?id=1TgNm-mtNvJD5vRq_uwC7OCDKMqnUwqeF&export=download&authuser=0&confirm=t.mkv
+17 La derivación del brindis
+https://drive.usercontent.google.com/download?id=1vQ_bSXCGTdsDX6PucC_xLL7Rt0pggby9&export=download&authuser=0&confirm=t.mkv
+18 La aproximación de prestidigitación
+https://drive.usercontent.google.com/download?id=1Yy8hHCVpCL8zxE9lB449h_RsL4ZXkT0u&export=download&authuser=0&confirm=t.mkv
+19 La incursión Zarnecki
+https://drive.usercontent.google.com/download?id=1OgvUzHXLUEZCNi89WOvonQ4tmPX1R-1T&export=download&authuser=0&confirm=t.mkv
+20 La germinación en el jardín de hierbas
+https://drive.usercontent.google.com/download?id=1iiYx5oY6qaMu-4i_wE9t7w-2kHSMNXO5&export=download&authuser=0&confirm=t.mkv
+21 El acuerdo diseccion
+https://drive.usercontent.google.com/download?id=16p-AtxNt7Q5-3ybVJZhE-YFH1qGda4jz&export=download&authuser=0&confirm=t.mkv
+22 La implementacion Wildebeest
+https://drive.usercontent.google.com/download?id=13K6RRzVKQ29NfzQUzjhKPR1ZfaOQo3UE&export=download&authuser=0&confirm=t.mkv
+23 Reacción de compromiso
+https://drive.usercontent.google.com/download?id=1AkzQEGVen9BVHezh1tGv9SWN3VjU8loK&export=download&authuser=0&confirm=t.mkv
+24 El acuerdo de compañeros
+https://drive.usercontent.google.com/download?id=1GMPm8UST1JYS6_CORtI4YUqOhTcwrb6p&export=download&authuser=0&confirm=t.mkv
+
+nombre: Temporada 5
+01 El análisis del reflejo de la ramera
+https://drive.usercontent.google.com/download?id=1mWMmIFKUPSv2s5wlF04HNOcsVLeEdOxt&export=download&authuser=0&confirm=t.mkv
+02 La hipótesis de la infestación
+https://drive.usercontent.google.com/download?id=1HBbHnfd1AHVup0wp5VvtzASrQUHkTTjx&export=download&authuser=0&confirm=t.mkv
+03 La extrapolación de la ingle estirada
+https://drive.usercontent.google.com/download?id=1X_XHnJd5y2iia2YwRwTgQ-68fqhmrgPg&export=download&authuser=0&confirm=t.mkv
+04 El catalizador de los dedos hábiles
+https://drive.usercontent.google.com/download?id=1FizsD9oMHkhin1q9xhyzcl22ldQWCjMT&export=download&authuser=0&confirm=t.mkv
+05 La reacción del cohete ruso
+https://drive.usercontent.google.com/download?id=13sdxGXZesPitG1FPnA92R_OLzau7SoE7&export=download&authuser=0&confirm=t.mkv
+06 La revelación de la rinitis
+https://drive.usercontent.google.com/download?id=14fsyRExiW4Fb2ryyQ6Q8n0FAfBcV3whR&export=download&authuser=0&confirm=t.mkv
+07 La fluctuacion del chico bueno
+https://drive.usercontent.google.com/download?id=19ORBWttLNJYjpm6-nIdxOIR22n7X2qwQ&export=download&authuser=0&confirm=t.mkv
+08 La permutacion del aislamiento
+https://drive.usercontent.google.com/download?id=1jTHL04B6osYAlWhpvDUZmKmIxNRvamiB&export=download&authuser=0&confirm=t.mkv
+09 La difusión de la ornitofóbia
+https://drive.usercontent.google.com/download?id=1QftkXAkHY-ie8CNzGRtLELeSFto1A2nq&export=download&authuser=0&confirm=t.mkv
+10 La adquisición de la escupidera llameante
+https://drive.usercontent.google.com/download?id=1q1I7OntJY64sgE5_tin4KonZ0c1eUWg1&export=download&authuser=0&confirm=t.mkv
+11 La recurrencia Speckerman
+https://drive.usercontent.google.com/download?id=1YjGN9womxqx9VefngzjsNi4elWsdIYq9&export=download&authuser=0&confirm=t.mkv
+12 La maniobra de la baratija brillante
+https://drive.usercontent.google.com/download?id=1f-dAKbzhpNonh43NCDITCyKjEykJO3X3&export=download&authuser=0&confirm=t.mkv
+13 La hipótesis de la recombinación
+https://drive.usercontent.google.com/download?id=1kFBddWlhfVj_2RYSwhvj1FGd8UhEMUk3&export=download&authuser=0&confirm=t.mkv
+14 El test Beta de iniciación
+https://drive.usercontent.google.com/download?id=197UZBfpsQH-QTLQN6GqCmF1eBJ6q6i7L&export=download&authuser=0&confirm=t.mkv
+15 La contradicción de la amistad
+https://drive.usercontent.google.com/download?id=1MVINIA3XRYs3nZP8AvGGdCHJ4yo3HieF&export=download&authuser=0&confirm=t.mkv
+16 La solución de las vacaciones
+https://drive.usercontent.google.com/download?id=1O_eYeR7Cdh9LqYZi4NSO26wB6pDXubUE&export=download&authuser=0&confirm=t.mkv
+17 La disgregación de Rothman
+https://drive.usercontent.google.com/download?id=1qyfZQ1vlufl4uICtDQ8RtgVFnOmYU3F7&export=download&authuser=0&confirm=t.mkv
+18 La transformación del hombre lobo
+https://drive.usercontent.google.com/download?id=1EtQ7IAXTzO1Qss8p0ZQQh2L90dW-b__F&export=download&authuser=0&confirm=t.mkv
+19 El vórtice del fin de semana
+https://drive.usercontent.google.com/download?id=1H_KJQFSuR4viLs-HfsGwqcWj3xB2aYDz&export=download&authuser=0&confirm=t.mkv
+20 La disfunción del transportador
+https://drive.usercontent.google.com/download?id=1D8FGHz2hETY2DUPBC00Q25P4FlV_GLHW&export=download&authuser=0&confirm=t.mkv
+21 La excitación de Hawking
+https://drive.usercontent.google.com/download?id=1yTl3fP3Cullzx97cvtmsoRWig3DWeuPP&export=download&authuser=0&confirm=t.mkv
+22 La convergencia Stag
+https://drive.usercontent.google.com/download?id=1QLO01pBuGAzG99u6y_ECaaHoIr52LJr1&export=download&authuser=0&confirm=t.mkv
+23 La aceleración del lanzamiento
+https://drive.usercontent.google.com/download?id=1oKvC2s5RlBOWsAu9wMnTFGt4D3sNhVmo&export=download&authuser=0&confirm=t.mkv
+24 El reflejo de la cuenta regresiva
+https://drive.usercontent.google.com/download?id=1t_4s7tjOhm8KCl03m9quv3OOkquG0RPi&export=download&authuser=0&confirm=t.mkv
+
+nombre: Temporada 6
+01 La variable de la cita nocturna
+https://drive.usercontent.google.com/download?id=1jCEnChDsT4jWcvPHCHcKAozZHomYwNBs&export=download&authuser=0&confirm=t.mkv
+02 La fluctuación del desacoplamiento
+https://drive.usercontent.google.com/download?id=1fr3DAoxwcaVhac_dN_deU0Q9swZW0dAi&export=download&authuser=0&confirm=t.mkv
+03 La observación del bosón de Higgs
+https://drive.usercontent.google.com/download?id=1HQ6YrB_pVB0CKsysv-BdtrJa3-CQkqc8&export=download&authuser=0&confirm=t.mkv
+04 La minimización de la reentrada
+https://drive.usercontent.google.com/download?id=1TkN6VzkWMB3WwNOgoyNwJBd3eGvuoJlg&export=download&authuser=0&confirm=t.mkv
+05 La excitación holográfica
+https://drive.usercontent.google.com/download?id=1GtipFLeN5HDRGuVTxNDwGIXtsUSTgJRm&export=download&authuser=0&confirm=t.mkv
+06 El extracto de la eliminación
+https://drive.usercontent.google.com/download?id=1FNlAkyDKiwRWEALAEVB3KCZbrvRCnBhE&export=download&authuser=0&confirm=t.mkv
+07 La configuración de la cohabitación
+https://drive.usercontent.google.com/download?id=1zcDqLIDUWYTBvPh4RRkWkrZh6BdNkv3v&export=download&authuser=0&confirm=t.mkv
+08 La peculiaridad del 43
+https://drive.usercontent.google.com/download?id=1kX1CT3-if4AMEwmx7A2fpoL8jqjc4CHv&export=download&authuser=0&confirm=t.mkv
+09 La escalada del estacionamiento
+https://drive.usercontent.google.com/download?id=1KjXFSsC4nh-ra_ZL-Y6bAM1a4VaNFwM7&export=download&authuser=0&confirm=t.mkv
+10 El desplazamiento de las tripas del pescado
+https://drive.usercontent.google.com/download?id=1JH57NvaI04LLS3Z-RILp1xvXz1_phIKQ&export=download&authuser=0&confirm=t.mkv
+11 La simulación de Santa
+https://drive.usercontent.google.com/download?id=14pdHFUMgz96xtRx2Hu11oo-xOSarPi0V&export=download&authuser=0&confirm=t.mkv
+12 La equivalencia de la ensalada de huevo
+https://drive.usercontent.google.com/download?id=1liAtbm_fPgcjjKxT1lva6VAsHTKdFWUf&export=download&authuser=0&confirm=t.mkv
+13 La expedición Bakersfield
+https://drive.usercontent.google.com/download?id=1fI5vUysAPPiRkNjjn91ZdhX87-iAgo5T&export=download&authuser=0&confirm=t.mkv
+14 La inversión Cooper Kripke
+https://drive.usercontent.google.com/download?id=1pKHAnB7OmApSy40TqE8KedVwTEt_R79n&export=download&authuser=0&confirm=t.mkv
+15 La segmentación del spoiler de alerta
+https://drive.usercontent.google.com/download?id=1wPHnE3kPEPUP0PvbXRX0rNsLhKu0KLNu&export=download&authuser=0&confirm=t.mkv
+16 La prueba tangible del afecto
+https://drive.usercontent.google.com/download?id=1c0GSspAmd1dTIJU1-eE2h-sA8thlxY7i&export=download&authuser=0&confirm=t.mkv
+17 El aislamiento monstruoso
+https://drive.usercontent.google.com/download?id=1qvKcuPBqViixHBTcxJitQuyDrLYCZ5DW&export=download&authuser=0&confirm=t.mkv
+18 La implementación de la obligación contractual
+https://drive.usercontent.google.com/download?id=1VxwcQ2x7IPm0KxQCbyp_Km-l8kGXR_jT&export=download&authuser=0&confirm=t.mkv
+19 La reconfiguración del armario
+https://drive.usercontent.google.com/download?id=1YcHzeCKSE0PhQtFSr3czx78ghmOzATLZ&export=download&authuser=0&confirm=t.mkv
+20 La turbulencia del puesto
+https://drive.usercontent.google.com/download?id=1X9VW7dSQhEhGevODY8xAwT3G33wL9blq&export=download&authuser=0&confirm=t.mkv
+21 La clausura alternativa
+https://drive.usercontent.google.com/download?id=10JxKbJPDd_ng9w1VHmzDW2AuZ5t3ZVwK&export=download&authuser=0&confirm=t.mkv
+22 El resurgimiento de los protones
+https://drive.usercontent.google.com/download?id=1HODF7vXrvdz8hSrH1wpgzNpnyCYXEmiW&export=download&authuser=0&confirm=t.mkv
+23 El potencial del conjuro de amor
+https://drive.usercontent.google.com/download?id=1G6Dbxj2XOzSMQKrdOH29swN_SptEgsPY&export=download&authuser=0&confirm=t.mkv
+24 La reacción de la despedida
+https://drive.usercontent.google.com/download?id=1kQia6Vf4H10qeXY8-8llpXfEzif1V6wc&export=download&authuser=0&confirm=t.mkv
+
+nombre: Temporada 7
+01 La insuficiencia Hofstadter
+https://drive.usercontent.google.com/download?id=1ujLhtfLRVmd8KTqi2vzQoOoODENeTKE5&export=download&authuser=0&confirm=t.mkv
+02 La verificación del engaño
+https://drive.usercontent.google.com/download?id=1SxmUEqttX_LKtJ2Q4vg-pggOsU7HD97o&export=download&authuser=0&confirm=t.mkv
+03 El vórtice de la yincana
+https://drive.usercontent.google.com/download?id=1AiePjCA4MmZQIXwCCQPz4pq9MC-xnN9k&export=download&authuser=0&confirm=t.mkv
+04 La minimización del arca perdida
+https://drive.usercontent.google.com/download?id=1wIIYZtxwFQl-ox_9goM6g1iVNaHhw2t_&export=download&authuser=0&confirm=t.mkv
+05 La proximidad del lugar de trabajo
+https://drive.usercontent.google.com/download?id=1KhlWR0Lbv7ikOwHIkiZT4hQfO3RUO3_q&export=download&authuser=0&confirm=t.mkv
+06 La resonancia del romance
+https://drive.usercontent.google.com/download?id=1ofbeljWh_BgzToOG6PJP0kpBVeB6SrCb&export=download&authuser=0&confirm=t.mkv
+07 El desplazamiento del protón
+https://drive.usercontent.google.com/download?id=1Ee5SyeeAUfKmZqTu5MzdGngATNSY4lIB&export=download&authuser=0&confirm=t.mkv
+08 La simulación del picor de cerebro
+https://drive.usercontent.google.com/download?id=1F7zz9K8MeImgXCwhOxSe7LdKPZbywT0e&export=download&authuser=0&confirm=t.mkv
+09 El desacoplamiento de Acción de Gracias
+https://drive.usercontent.google.com/download?id=1r01MioLNsjrA11zMv-GO7R0V6V9tdd-j&export=download&authuser=0&confirm=t.mkv
+10 La disipación del descubrimiento
+https://drive.usercontent.google.com/download?id=1xmiFqltj1BUxN1eJXH_x-qV79WsD3cKS&export=download&authuser=0&confirm=t.mkv
+11 La extracción de Cooper
+https://drive.usercontent.google.com/download?id=15l8_ixc9QmuxiRoadDDDH-OK9VjVLhBz&export=download&authuser=0&confirm=t.mkv
+12 La ramificación de la indecisión
+https://drive.usercontent.google.com/download?id=1TkKCjPgNaK-ZQ4-90DK1LF4XAzgiu3uR&export=download&authuser=0&confirm=t.mkv
+13 La recalibración de la ocupación
+https://drive.usercontent.google.com/download?id=1onM7KSboC3djUbD9BGigZRAMFrOzOBnN&export=download&authuser=0&confirm=t.mkv
+14 El conflicto de la convención
+https://drive.usercontent.google.com/download?id=1ZaqE9AEEiw1DC4mvipg4hkEDBjzj09My&export=download&authuser=0&confirm=t.mkv
+15 La manipulación de la locomoción
+https://drive.usercontent.google.com/download?id=1gtiBNl1UgTJukSpSFygVT6m0iwOSyMfo&export=download&authuser=0&confirm=t.mkv
+16 La polarización de la mesa
+https://drive.usercontent.google.com/download?id=1LY-VF9F4s2Z8C65RABYQejqhWPaOEYyS&export=download&authuser=0&confirm=t.mkv
+17 La turbulencia de la amistad
+https://drive.usercontent.google.com/download?id=1PeQ-21zA_a4n9r_caw0WEW4vFd1bMkPh&export=download&authuser=0&confirm=t.mkv
+18 La observación de mami
+https://drive.usercontent.google.com/download?id=1F_3GJcSkhLGZ9x4Aq0pKP2dL20xW0lOe&export=download&authuser=0&confirm=t.mkv
+19 La unión de la indecisión
+https://drive.usercontent.google.com/download?id=1zWET-d6BwkeTcjY5VKSDl5w8SRiwYytE&export=download&authuser=0&confirm=t.mkv
+20 La escisión de la relación
+https://drive.usercontent.google.com/download?id=1yvdI3DN4yPWjXTp6ixdKqUGwiHlg131u&export=download&authuser=0&confirm=t.mkv
+21 La recurrencia de que cualquier cosa puede suceder
+https://drive.usercontent.google.com/download?id=1tgjcZfLbgoFIsn5IQ46Wz_0LUleh_0-P&export=download&authuser=0&confirm=t.mkv
+22 La transfiguración del protón
+https://drive.usercontent.google.com/download?id=17lepZFxS-QsuGUlSzdXf9TgoWtW6WTMu&export=download&authuser=0&confirm=t.mkv
+23 La disolución del gorila
+https://drive.usercontent.google.com/download?id=1cdzsnAnyGjZxH5InS_6zju2XYY7n7oth&export=download&authuser=0&confirm=t.mkv
+24 La combustión del status quo
+https://drive.usercontent.google.com/download?id=1hcHQVUVLE2dRNWPaO1Kb659_IrSKSlaf&export=download&authuser=0&confirm=t.mkv
+
+nombre: Temporada 8
+01 La interrupción de la locomotora
+https://drive.usercontent.google.com/download?id=1duKQAmw7v5sVva7OIxFQBqR9AvFF-OwA&export=download&authuser=0&confirm=t.mkv
+02 La solución del profesor adjunto
+https://drive.usercontent.google.com/download?id=1o2K9sF21k27HuWNIACw02zNLdQGbiDP6&export=download&authuser=0&confirm=t.mkv
+03 La insuficiencia del primer lanzamiento
+https://drive.usercontent.google.com/download?id=1_RzH6it-knhsD5w9dnsZJrQTqmB4ckY7&export=download&authuser=0&confirm=t.mkv
+04 La reverberación de la interconexión
+https://drive.usercontent.google.com/download?id=15-Fx2QoizsFtTgBQzX9Lc2UniVIKg3Ni&export=download&authuser=0&confirm=t.mkv
+05 La atenuación del foco
+https://drive.usercontent.google.com/download?id=1doNLVfik4Q7OaGniaRHQ10h-7BfNhFbU&export=download&authuser=0&confirm=t.mkv
+06 La aproximación de la expedición
+https://drive.usercontent.google.com/download?id=1OGro10HvMq3D3XT3__gzPQgJZ9ub9SZ3&export=download&authuser=0&confirm=t.mkv
+07 La agitación de la malinterpretación
+https://drive.usercontent.google.com/download?id=1r-3QYrFUAGFvgxpnuBdMt4tjKCVe_Ecp&export=download&authuser=0&confirm=t.mkv
+08 La equivalencia del baile del instituto
+https://drive.usercontent.google.com/download?id=1YShKvSPEluVVbZcJJgCjVNZo0DHalJ1_&export=download&authuser=0&confirm=t.mkv
+09 La desviación del tabique
+https://drive.usercontent.google.com/download?id=13-VvMuk55Y1sUbg3YB5L1TwNAVrcxHkq&export=download&authuser=0&confirm=t.mkv
+10 La reflexión del champán
+https://drive.usercontent.google.com/download?id=1gbJjJSSTYnwACpjucXuTr1BaFwr0XaSx&export=download&authuser=0&confirm=t.mkv
+11 La infiltración en la sala blanca
+https://drive.usercontent.google.com/download?id=1Bf-K86-mpjh4FhvQWyNIjR8xhdv7sOWe&export=download&authuser=0&confirm=t.mkv
+12 La desintegración de la sonda espacial
+https://drive.usercontent.google.com/download?id=1w2vcUgIgJkwfrkmwriacjfKKGfmj5Fke&export=download&authuser=0&confirm=t.mkv
+13 La optimización de la ansiedad
+https://drive.usercontent.google.com/download?id=1iQz39oNF_abiRxIsmz9mm7uDi-tvvT8M&export=download&authuser=0&confirm=t.mkv
+14 La manifestación del troll
+https://drive.usercontent.google.com/download?id=1YVW-3Ru7r8YfdVhWAVAJiLvDmkCEmvVr&export=download&authuser=0&confirm=t.mkv
+15 La regeneración de la tienda de historietas
+https://drive.usercontent.google.com/download?id=12YbZ1wKYtsg3dFrkce4zqI3t9_9AMzFw&export=download&authuser=0&confirm=t.mkv
+16 La aceleración de la intimidad
+https://drive.usercontent.google.com/download?id=15D0tvN25lclzz2tTva6nJphw9LDgaTeq&export=download&authuser=0&confirm=t.mkv
+17 La aplicación de la colonización
+https://drive.usercontent.google.com/download?id=1I9e153tGzUo8ReXsW3H6xNQ8fknxBcaY&export=download&authuser=0&confirm=t.mkv
+18 La termalización de las sobras
+https://drive.usercontent.google.com/download?id=10hK4KpTsEs6oYRJrFFU0pdROQkKes9bs&export=download&authuser=0&confirm=t.mkv
+19 La incursión en Skywalker
+https://drive.usercontent.google.com/download?id=1RK_sJsBAfkavRLldMZeQ8VPXB9e_jiIT&export=download&authuser=0&confirm=t.mkv
+20 La implementación de la fortificación
+https://drive.usercontent.google.com/download?id=15D5IX4MUb-xt7tkSkmoM3UVRj1Ei2e__&export=download&authuser=0&confirm=t.mkv
+21 La degradación de la comunicación
+https://drive.usercontent.google.com/download?id=1Kd-caVRBB5Q-BWFSaviUUOhdjInWQ_HV&export=download&authuser=0&confirm=t.mkv
+22 La transmisión de la graduación
+https://drive.usercontent.google.com/download?id=15yK5vVPNIjdO9BN8-URFSOk24Wo6kp3E&export=download&authuser=0&confirm=t.mkv
+23 La combustión maternal
+https://drive.usercontent.google.com/download?id=1Euj6z0449VClAgtZN62dpDuofK4kxnoI&export=download&authuser=0&confirm=t.mkv
+24 La determinación del compromiso
+https://drive.usercontent.google.com/download?id=1GIOH04gkew_-gCpN6lJy1X9xxjXZQ3mI&export=download&authuser=0&confirm=t.mkv
+
+nombre: Temporada 9
+01 La inercia matrimonial
+https://drive.usercontent.google.com/download?id=1bx2qY7ZOYSUcPCXS-Ynd1ISiEnh6X4d9&export=download&authuser=0&confirm=t.mkv
+02 La oscilación de la separación
+https://drive.usercontent.google.com/download?id=15Ltoq35ss6s3G_bbuwRgOJ35puXVXxJK&export=download&authuser=0&confirm=t.mkv
+03 La corrosión de la despedida de soltero
+https://drive.usercontent.google.com/download?id=17S3MnRf0Vx8MXSWTQCC4gUqHTjo_A_4c&export=download&authuser=0&confirm=t.mkv
+04 La aproximación a 2003
+https://drive.usercontent.google.com/download?id=1r3d4eUzMMb9JtZuneTDZn8e7StEmilUC&export=download&authuser=0&confirm=t.mkv
+05 La implementación de la perspiración
+https://drive.usercontent.google.com/download?id=1sgmtMt_QjS-S3S7z1xiRxkK60KihIqJb&export=download&authuser=0&confirm=t.mkv
+06 La insuficiencia de helio
+https://drive.usercontent.google.com/download?id=1xDi0Wosn5JVaUNE3gyYF7tq_r0OmqFB3&export=download&authuser=0&confirm=t.mkv
+07 La resonancia de Spock
+https://drive.usercontent.google.com/download?id=17h4bMYTx2Jj5JaEeop7Fe9bIobGDvgwA&export=download&authuser=0&confirm=t.mkv
+08 La observación de la cita misteriosa
+https://drive.usercontent.google.com/download?id=1-cwYAJbdN8foQK7LQoCKvSUsFKc_KbCY&export=download&authuser=0&confirm=t.mkv
+09 La permutación platónica
+https://drive.usercontent.google.com/download?id=1OodhMDbRwaXQiJ_ySDubdh90V1EQtyRw&export=download&authuser=0&confirm=t.mkv
+10 La reverberación de la melodía
+https://drive.usercontent.google.com/download?id=18f48q_EeQ9IXzQno61xmT-9Cw2pTDICo&export=download&authuser=0&confirm=t.mkv
+11 La excitación del estreno
+https://drive.usercontent.google.com/download?id=1ilJ4jV5ipJEnE5HfQP7M94YUUl9JsMs1&export=download&authuser=0&confirm=t.mkv
+12 La sublimación de la venta
+https://drive.usercontent.google.com/download?id=1RddC3DDU5E8rvYx_C7ykwmSDy-RJ2oVi&export=download&authuser=0&confirm=t.mkv
+13 La optimización de la empatía
+https://drive.usercontent.google.com/download?id=19y4K6X-b4i6t9wEPe-yawf9I57dmHAdm&export=download&authuser=0&confirm=t.mkv
+14 La materialización de la abuelita
+https://drive.usercontent.google.com/download?id=1t8cEVuz-j57Ym7FhXLpOY6S_jeXR8YID&export=download&authuser=0&confirm=t.mkv
+15 La inmersión de Valentino
+https://drive.usercontent.google.com/download?id=1PaNV5dETJlRmAfwVOvh5sImsyke9JWb-&export=download&authuser=0&confirm=t.mkv
+16 La reacción positivo-negativa
+https://drive.usercontent.google.com/download?id=18IdDqS81GgeV9KldlIKHtunpBxljEQuU&export=download&authuser=0&confirm=t.mkv
+17 La experimentación de la celebración
+https://drive.usercontent.google.com/download?id=1KKSVLLt_qM8JwYSsrqJpAcauMp4WUi7N&export=download&authuser=0&confirm=t.mkv
+18 El deterioro de la soledad
+https://drive.usercontent.google.com/download?id=16pA_hJAhkxDfHBelAVd6OSuB00nHIsAD&export=download&authuser=0&confirm=t.mkv
+19 La excursión a por soldadura
+https://drive.usercontent.google.com/download?id=1eHKRKchYygAXtgPZ_nlqdWGJoddCJYdF&export=download&authuser=0&confirm=t.mkv
+20 La precipitación del oso gigante
+https://drive.usercontent.google.com/download?id=1MezdievRdna6E1wWViHBdvXgt7LOUuIN&export=download&authuser=0&confirm=t.mkv
+21 La combustión de la fiesta televisiva
+https://drive.usercontent.google.com/download?id=1cAyoGPmjyM7s9NCijKcp8-5-WQ_1jTxA&export=download&authuser=0&confirm=t.mkv
+22 La fermentación de la bifurcación
+https://drive.usercontent.google.com/download?id=1P7kLEtOy7OTKKX1Pww0UTYy4dbx57O4X&export=download&authuser=0&confirm=t.mkv
+23 La solución de la sustitución en la cola
+https://drive.usercontent.google.com/download?id=1wMDbiF2I50_HAyb67iJ2UKNfSgqNOcqy&export=download&authuser=0&confirm=t.mkv
+24 La convergencia de la convergencia
+https://drive.usercontent.google.com/download?id=1TOPHT2CsRMBhvvLiJ9CnwZ7N_2EtebIi&export=download&authuser=0&confirm=t.mkv
+
+nombre: Temporada 10
+01 La conjetura conyugal
+https://drive.usercontent.google.com/download?id=14TrvnxY2ksp4qLHYNr4ykQz24rs9t1Bf&export=download&authuser=0&confirm=t.mkv
+02 La miniaturización militar
+https://drive.usercontent.google.com/download?id=1rhUr3FBB8iB4H_lNsT3_ktB45eRPoOuV&export=download&authuser=0&confirm=t.mkv
+03 La transcendencia de la dependencia
+https://drive.usercontent.google.com/download?id=1zbaIsTU_SfAPd8zdcTH1jPf1P6pfrhJF&export=download&authuser=0&confirm=t.mkv
+04 La experimentación de la cohabitación
+https://drive.usercontent.google.com/download?id=1JQu-nQjToKu0vgL9eE-ZEwkoNlVU1LAn&export=download&authuser=0&confirm=t.mkv
+05 La contaminación del jacuzzi
+https://drive.usercontent.google.com/download?id=1NM2yaa81nKxaQhbcXeVEsFhcaJPxRC7m&export=download&authuser=0&confirm=t.mkv
+06 El catalizador de la patada fetal
+https://drive.usercontent.google.com/download?id=1EYCHZlDD2DIkaNUmZJ8ahoyUBF6I8ucY&export=download&authuser=0&confirm=t.mkv
+07 La elasticidad de la veracidad
+https://drive.usercontent.google.com/download?id=1QCguCmJH7_10dKSnmJ-3zfGBO1iNMzYJ&export=download&authuser=0&confirm=t.mkv
+08 La incubación del cuenco del cerebro
+https://drive.usercontent.google.com/download?id=1d0SYiKQ3nzxAGAnKTqRbDqM697rael7g&export=download&authuser=0&confirm=t.mkv
+09 La elevación de la geologia
+https://drive.usercontent.google.com/download?id=1Bzb6riMbphws7y2TUzNS_tW33CrJxwSj&export=download&authuser=0&confirm=t.mkv
+10 La colisión de la división de la propiedad
+https://drive.usercontent.google.com/download?id=1gk42RE2M76frg3TR7-iOVpUUyRth78t2&export=download&authuser=0&confirm=t.mkv
+11 La sincronicidad del cumpleaños
+https://drive.usercontent.google.com/download?id=1uZjAVPfbU_DyCfPXc3-PaEq_vdcBz1CL&export=download&authuser=0&confirm=t.mkv
+12 El resumen de las fiestas
+https://drive.usercontent.google.com/download?id=1Mld_jGM_wkbpjaYVGwtoSLIwIK_WNfZ6&export=download&authuser=0&confirm=t.mkv
+13 La recalibración del romance
+https://drive.usercontent.google.com/download?id=1xWSUSHCv5BpsFtt-doPJBK9NrGVgsWR3&export=download&authuser=0&confirm=t.mkv
+14 La automatización de la detección de emociones
+https://drive.usercontent.google.com/download?id=1MIOtKHLxxdHj1kwoWEzDamP-fQysf71S&export=download&authuser=0&confirm=t.mkv
+15 La reverberación locomocional
+https://drive.usercontent.google.com/download?id=1Zlb2RD5JSt07-_Ai0P4V5deE2rcKX-H1&export=download&authuser=0&confirm=t.mkv
+16 La evaporación del permiso
+https://drive.usercontent.google.com/download?id=1RMh7ylHCY4epZJWGcq1e4H4KN0XhV2DX&export=download&authuser=0&confirm=t.mkv
+17 El enigma de la Comic-Con
+https://drive.usercontent.google.com/download?id=1hxN_t0mYCXUbFw6DM9Y3yd0dRHg8dOSS&export=download&authuser=0&confirm=t.mkv
+18 La identificación de la escotilla de escape
+https://drive.usercontent.google.com/download?id=1fcTZOImemQVjBLv4ma9FheV8m4rNE-4p&export=download&authuser=0&confirm=t.mkv
+19 La fluctuación de la colaboración
+https://drive.usercontent.google.com/download?id=1FHfumYleB2-Iw8T6d4bTU2x7BXkB2u5q&export=download&authuser=0&confirm=t.mkv
+20 La disipación de los recuerdos
+https://drive.usercontent.google.com/download?id=1p3ugK6aXo3Ntz8l29MSpNyv5_40G7g3j&export=download&authuser=0&confirm=t.mkv
+21 La agitación de la separación
+https://drive.usercontent.google.com/download?id=1EgbfAJVRNxClv1HWsCo0UNMIEZAQ4l8a&export=download&authuser=0&confirm=t.mkv
+22 La regeneración cognitiva
+https://drive.usercontent.google.com/download?id=1CUwBwrR2r96pf2YIGFQsL-yAOa41VroC&export=download&authuser=0&confirm=t.mkv
+23 El colapso giroscópico
+https://drive.usercontent.google.com/download?id=1oRr1SUa6wrivQS_Y8ofBy3nCisS0RfXW&export=download&authuser=0&confirm=t.mkv
+24 La disonancia de larga distancia
+https://drive.usercontent.google.com/download?id=1pxnQvQ8sJeZyrtNo4ij_agqiMyEoBuAi&export=download&authuser=0&confirm=t.mkv
+
+nombre: Temporada 11
+01 La propuesta de propuesta
+https://drive.usercontent.google.com/download?id=10v-aQG4p7I30j2Qna1GY6YWMah7jcPBc&export=download&authuser=0&confirm=t.mkv
+02 La reacción de la retracción
+https://drive.usercontent.google.com/download?id=1f21ZzMVZ-WvUcwJVEuYUUrz-DCeGhINX&export=download&authuser=0&confirm=t.mkv
+03 La integración de la relajación
+https://drive.usercontent.google.com/download?id=1cJnRvKdcYftCkQVkYTeJrphwW-J1zIe9&export=download&authuser=0&confirm=t.mkv
+04 La implosión de la explosión
+https://drive.usercontent.google.com/download?id=1nNhy9RBOXgQq_mDFrwFzozF28z1AIg-L&export=download&authuser=0&confirm=t.mkv
+05 La contaminación de la colaboración
+https://drive.usercontent.google.com/download?id=1edEMx7gNSUJV9NwMUW_n6y_V9_LOoXk9&export=download&authuser=0&confirm=t.mkv
+06 La regeneración de protones
+https://drive.usercontent.google.com/download?id=1HhRsJSJJCDVDbOp9moVSpUS6S8YRN7MX&export=download&authuser=0&confirm=t.mkv
+07 La metodología geológica
+https://drive.usercontent.google.com/download?id=1ydcLxA94nGmuPw1OSY7qXeH0Tdk5tPwe&export=download&authuser=0&confirm=t.mkv
+08 El retroceso de Tesla
+https://drive.usercontent.google.com/download?id=1EdzosksMcZgMgAxHLDDWIPo4Vc3rWD-k&export=download&authuser=0&confirm=t.mkv
+09 El enredo del Bitcoin
+https://drive.usercontent.google.com/download?id=1lj_NgVKaGPYWvrBeJksbBaFlmHm9-7qG&export=download&authuser=0&confirm=t.mkv
+10 La erosión de la confianza
+https://drive.usercontent.google.com/download?id=17Ny2JnQDpBYrRIM31M7PFF0AvyDKgf2e&export=download&authuser=0&confirm=t.mkv
+11 La reverberación de la celebración
+https://drive.usercontent.google.com/download?id=17tumdwo_Pl7jv5aPtsTcFcsKcZ4HZ8vz&export=download&authuser=0&confirm=t.mkv
+12 La métrica matrimonial
+https://drive.usercontent.google.com/download?id=1p1SYbJ7uEfn_Z2W_3rWJaAfbAdjgxYyM&export=download&authuser=0&confirm=t.mkv
+13 La oscilación Solo
+https://drive.usercontent.google.com/download?id=1KENUiRHcxm-N9lBiTnIhmSPUiY007tFm&export=download&authuser=0&confirm=t.mkv
+14 La triangulación de la separación
+https://drive.usercontent.google.com/download?id=19t0fhAnipDEe3PcI1yqy7tywajBoy3lg&export=download&authuser=0&confirm=t.mkv
+15 La correlación de la novela
+https://drive.usercontent.google.com/download?id=1SVuk5I5qDt9u0nR7jdmsfS-CO94rm4gB&export=download&authuser=0&confirm=t.mkv
+16 La nomenclatura neonatal
+https://drive.usercontent.google.com/download?id=1pVzSLjoyQu4GlrG_93a3lslhN9rDAUQw&export=download&authuser=0&confirm=t.mkv
+17 La reserva del Ateneo
+https://drive.usercontent.google.com/download?id=1QrQK9Iv4T5Oafkt5yWOjRHSO-iHbs1Mo&export=download&authuser=0&confirm=t.mkv
+18 La excitación por Bill Gates
+https://drive.usercontent.google.com/download?id=1W_eWTlO4xHqGsdACtja73QhPmHCcEwvu&export=download&authuser=0&confirm=t.mkv
+19 La disociación del inquilino
+https://drive.usercontent.google.com/download?id=1nhmHYdASom_R6DFXb-xcR3lkY4eLLGyL&export=download&authuser=0&confirm=t.mkv
+20 El potencial de la reclusión
+https://drive.usercontent.google.com/download?id=1JYpBhMa5RjpvazJo6pw0bsZJbPBFtmaR&export=download&authuser=0&confirm=t.mkv
+21 La polarización del cometa
+https://drive.usercontent.google.com/download?id=121o0O0eW-6J6QZbSul5BeoDOi81fxyhM&export=download&authuser=0&confirm=t.mkv
+22 La insuficiencia monetaria
+https://drive.usercontent.google.com/download?id=1NRqpcpj7WV0LQQ9pnxXx2uoFc5CLyH_Y&export=download&authuser=0&confirm=t.mkv
+23 La realineación fraternal
+https://drive.usercontent.google.com/download?id=1NzBjjhkARUMzu0fc3TvZGQOSBMpskM6J&export=download&authuser=0&confirm=t.mkv
+24 La asimetría de la pajarita
+https://drive.usercontent.google.com/download?id=1T-QVtJWED-7uH_wQnYM6e8fFbZe3Oi-J&export=download&authuser=0&confirm=t.mkv
+
+nombre: Temporada 12
+01 La configuración conyugal
+https://drive.usercontent.google.com/download?id=1gpsjzpz54gqY1hWXk_-i9tLAUfEppCqq&export=download&authuser=0&confirm=t.mkv
+02 La transferencia del regalo de boda
+https://drive.usercontent.google.com/download?id=1Dj-2TBbyQu44k8nIEAUyuH0Ght0fgkny&export=download&authuser=0&confirm=t.mkv
+03 El cálculo de la procreación
+https://drive.usercontent.google.com/download?id=121GEGYjRoRJvjOwKAz_yU7sxQZ0LuqM0&export=download&authuser=0&confirm=t.mkv
+04 Las turbulencias de Tam
+https://drive.usercontent.google.com/download?id=10Zc9WMEJ3e0pFJjmAsh579pT3TsA3BkX&export=download&authuser=0&confirm=t.mkv
+05 La colisión planetaria
+https://drive.usercontent.google.com/download?id=1IHX9tjUBO1VRWzPKVqy2imWuoon2WOpz&export=download&authuser=0&confirm=t.mkv
+06 La perturbación de imitación
+https://drive.usercontent.google.com/download?id=1bKDZHHkv8fIL-vEwDNS6hEh5-t4cCeP7&export=download&authuser=0&confirm=t.mkv
+07 La derivación de la concesión de la beca
+https://drive.usercontent.google.com/download?id=1lSPIIhN6W2E6RVXodANO0E7eVVnfStnK&export=download&authuser=0&confirm=t.mkv
+08 La desviación de la consumación
+https://drive.usercontent.google.com/download?id=1z8zybhyjStORVz5eDF4hXOyupCaXNFw1&export=download&authuser=0&confirm=t.mkv
+09 La negación de la citación
+https://drive.usercontent.google.com/download?id=1Sa8roP7fiF6i-eKNPE3v6GVQ0fhtE1E1&export=download&authuser=0&confirm=t.mkv
+10 La iluminación del videocasette
+https://drive.usercontent.google.com/download?id=1TAlO_cekg2oZoz9EP0VzhxvKwHz4JTcw&export=download&authuser=0&confirm=t.mkv
+11 La dispersión del paintball
+https://drive.usercontent.google.com/download?id=1jHbsx8AO_kOf8khQQ6bk9n09I4Z4wn5m&export=download&authuser=0&confirm=t.mkv
+12 La proposición de la propagación
+https://drive.usercontent.google.com/download?id=1P2cchW2yUZ8jjOwxJLkpHFAu0UYhySGo&export=download&authuser=0&confirm=t.mkv
+13 La confirmación de la polarización
+https://drive.usercontent.google.com/download?id=1SIoqivECtRkEv5x35zUDydfFrhCD_wLc&export=download&authuser=0&confirm=t.mkv
+14 La manifestación del meteorito
+https://drive.usercontent.google.com/download?id=11wYTol7_FZt6RTxInc-aGh5RsDgz4bUg&export=download&authuser=0&confirm=t.mkv
+15 La oscilación de la donación
+https://drive.usercontent.google.com/download?id=12iZxMBEwPae5h0TPCXuQGZP-kD7X-2Bm&export=download&authuser=0&confirm=t.mkv
+16 El V & D Vortex
+https://drive.usercontent.google.com/download?id=1nPQnk5q07YRnisGRB_RzG99ASCGMKUxb&export=download&authuser=0&confirm=t.mkv
+17 La valoración de la conferencia
+https://drive.usercontent.google.com/download?id=1PW4VGjLL7xMYDOfH-K7wBDjJ1pedx-Pt&export=download&authuser=0&confirm=t.mkv
+18 La acumulación de Laureate
+https://drive.usercontent.google.com/download?id=1-BObtokQwhJTSwVe2io2LuVil_GHDA2B&export=download&authuser=0&confirm=t.mkv
+19 La privación de la inspiración
+https://drive.usercontent.google.com/download?id=1dXlWbEKgIUDXAM5BmKFwTq1CWu-9twO6&export=download&authuser=0&confirm=t.mkv
+20 La reverberación de la decisión
+https://drive.usercontent.google.com/download?id=1v4DU9BWNSInYLN2yC-T2RggsQEMMDwpv&export=download&authuser=0&confirm=t.mkv
+21 El cisma del plagio
+https://drive.usercontent.google.com/download?id=1u4qivP71P5rJoJvUncZGgGRI09vOOe9W&export=download&authuser=0&confirm=t.mkv
+22 La conclusión maternal
+https://drive.usercontent.google.com/download?id=1NlF67KjapxAWfuzC7z4pKEx7K2fcMZon&export=download&authuser=0&confirm=t.mkv
+23 La constante del cambio 24 El síndrome de Estocolmo
+https://drive.usercontent.google.com/download?id=13UnruWF7mmgGOQoDJWAnkETKf2-C6-ZW&export=download&authuser=0&confirm=t.mkv
